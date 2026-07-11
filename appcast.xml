@@ -3,6 +3,21 @@
     <channel>
         <title>ChainLink</title>
         <item>
+            <title>0.3.437</title>
+            <pubDate>Fri, 10 Jul 2026 19:11:32 -0700</pubDate>
+            <sparkle:version>437</sparkle:version>
+            <sparkle:shortVersionString>0.3.437</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.437.zip" length="33007835" type="application/octet-stream" sparkle:edSignature="BaJHMg4yr8ZA4Q/UwkNdrUsV0PNec3Ywxx+papMDKmctmQ3Vrm/AbfMcvIxm7qDEAImSoNm/bJIXU3lZVjhEDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink437-432.delta" sparkle:deltaFrom="432" length="3480886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zBPuUYNvzwgtrnNSyTJcv1HJHw/r/7Iy/0Hz3BkHD5v6m+A8sZg423s2uK5/lva/yvZob4eJxSEz5QBMhHvcCQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink437-402.delta" sparkle:deltaFrom="402" length="5305374" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8U8h77/yp0DN+ASJHVJtWYswGTHjr1DwmQKNFE85dqF6QWqHDH1Au2G5Rc8f9ElJuG/WN/7GOuYNpIihaFOPAg=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink437-401.delta" sparkle:deltaFrom="401" length="5353218" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yXIYxw4cvrz+rrzfUj0MDuuEp29acqdKqCNec4eXvhvPnREjs1NbyD0SuY/hd1npaUH6KHxyB/qm0H7q2TBXAQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink437-400.delta" sparkle:deltaFrom="400" length="5313586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JeAIsRNXEu3xTdrGMvGOj9A2Okmw4dNkIeq1GHf95tY+glr3uOEdQ32RQfh21zFT1vABDAh/ytn3y6Tnly7SBA=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink437-398.delta" sparkle:deltaFrom="398" length="5329970" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ELBvcTcCPZN5nF28UVtaAT2Lvh4MM2rnJxOpnruup4pU0ZVHgAkbc9Dr71wKM1eHTeyg8czDQSiJSg+4PKPYBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.432</title>
             <pubDate>Fri, 10 Jul 2026 17:24:27 -0700</pubDate>
             <sparkle:version>432</sparkle:version>
@@ -30,21 +45,6 @@
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink402-398.delta" sparkle:deltaFrom="398" length="3279094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QI9zA5x941HZrxxzMZFHGWRX7oKlWfvRjh4WPfNOwMfsXIqKBlRkqdFcxpDbrbqBVYSfcaZhl22lmhASQJhxAA=="/>
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink402-375.delta" sparkle:deltaFrom="375" length="12748166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RF0ATvkkj403S5atYx9focZN4/rrbtqBGU9h8YZphgi9Mv+2032IeVZbbSk0GTQIxfezD7eEnQoxK+zViQY0Dw=="/>
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink402-345.delta" sparkle:deltaFrom="345" length="13384758" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JIJZbTNYqJrrlbtrjEPH/MK2XnAiuzu45/a9iBWqkVdbu4HJd3ske2Q7S0L4kwOoW9gMNV/65yTL5AG+AQ5dDQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.401</title>
-            <pubDate>Thu, 09 Jul 2026 22:05:01 -0700</pubDate>
-            <sparkle:version>401</sparkle:version>
-            <sparkle:shortVersionString>0.3.401</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.401.zip" length="32635146" type="application/octet-stream" sparkle:edSignature="AIxk+R6YpFuWIg7I5wNUC5caDUwv71c0dYsGxFK9NB+GOh0t1JlGgPNmC5PUtiKpJZayGXiMJxYHimoMuyS6Cg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink401-400.delta" sparkle:deltaFrom="400" length="2835550" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PxlmlGFXAULyKwhDgFpq9tMkQaOWcg0bsMofhfFNQJjpu10+KLH/suMYErZJh5GwIAQ1v0VK4/nb+l9kCuIFDA=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink401-398.delta" sparkle:deltaFrom="398" length="3286850" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aQtDzd7clpr8gJjCAEDWyjnDQO9lCYvwsBGj8jMvJQOm13bRd3wwXkyf+r+uBrkZ6LAGvmfxIjiJgQSHmRGgDw=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink401-375.delta" sparkle:deltaFrom="375" length="12739354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0gXjCqOqidClRwpHuhDxd+vBr4RnJN+OsyYoiprF7DwDqVLVw2TlIcVFXy7vpnSHKyVR59AX7y+f8VaogixoCw=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink401-345.delta" sparkle:deltaFrom="345" length="13414630" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JDphL6WtWctOPbXjSQZy3hauAsgcGdO//oskj9z6I/nrxj7WcTNhbM0NiZjMZdV8pwtU9xD6AbJMFz1XJySnAw=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink401-341.delta" sparkle:deltaFrom="341" length="13449994" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Q7pyr56A43JtNQTr5qTeMFbEvTD0dSeMsQ096qNHbyhHVEAg82bqMAUMfiEkD5kDL3mnrao0CTf1OvIljEE/Cw=="/>
             </sparkle:deltas>
         </item>
     </channel>
