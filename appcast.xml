@@ -3,6 +3,64 @@
     <channel>
         <title>ChainLink</title>
         <item>
+            <title>0.3.455</title>
+            <pubDate>Sat, 11 Jul 2026 14:30:49 -0700</pubDate>
+            <sparkle:version>455</sparkle:version>
+            <sparkle:shortVersionString>0.3.455</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<style>
+  :root { color-scheme: light dark; }
+  body { font: 13px -apple-system, "Helvetica Neue", sans-serif; margin: 12px 14px; }
+  h2 { font-size: 14px; margin: 0 0 2px; }
+  p.sub { color: #808080; margin: 0 0 10px; font-size: 12px; }
+  ul { padding-left: 18px; margin: 6px 0; }
+  li { margin-bottom: 6px; }
+</style>
+<h2>ChainLink 0.3.455</h2>
+<p class="sub">A big update — everything since 0.3.438, plus a fix.</p>
+<ul>
+  <li><b>Fixed: the "Setting things up…" banner could get stuck</b> on screen
+  after launch even though your data was fully loaded. It now always clears.</li>
+  <li><b>New manual chapter: "Which rider are you?"</b> — 17 short rider profiles
+  (racer, randonneur, tourer, commuter, indoor rider, returning from a break…)
+  that point you at the parts of the app built for you. Start there if the manual
+  feels long.</li>
+  <li><b>AI Coach settings, redesigned</b> — one clear pick-one list of engines,
+  privacy options on top, and a model picker for each cloud engine (use exactly
+  the model you want).</li>
+  <li><b>Settings page design pass</b> — simpler layout, less clutter, details
+  tucked into expanding sections; Import and Preferences are now separate cards.</li>
+  <li><b>Events</b> — FKT attempts with target times and an attempts log;
+  multi-day events with daily distance/time targets that shape your training
+  plan; brevet records with Audax/Super&nbsp;Randonneur progress built from your
+  real rides.</li>
+  <li><b>Bring your coach's plan</b> — Training → Import a plan: paste it, review
+  what was read, adopt it. ChainLink tracks compliance without rewriting your
+  coach's structure.</li>
+  <li><b>Bikes</b> — mark a bike out of commission, away in another location, or
+  borrowed/rented; ride assignment and totals respect it.</li>
+  <li><b>Aspirations</b> — write a goal in your own words on the Goals page
+  ("I want to get faster at club crits") and the coach tracks it against your
+  actual numbers.</li>
+  <li><b>Week start</b> — choose Monday or Sunday weeks (Settings → Preferences);
+  all weekly stats follow.</li>
+  <li><b>Weather day call</b> — on a genuinely unrideable day the Overview
+  weather card now suggests what to do instead: your cross-training sports, the
+  trainer, or an earned day off, backed by your training data.</li>
+  <li>Plus: Rides refresh automatically after a Sync, faster page loads, and
+  assorted fixes.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.455.zip" length="34058021" type="application/octet-stream" sparkle:edSignature="iP+KLJbCIPZPPByLKC4Ud5UNQHEex5U2Cpi1424Vi0cWy56OuJc3ifZgLqiPCMfLHJ3rv93tecsGv8iFfvHsDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink455-454.delta" sparkle:deltaFrom="454" length="2374318" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ihyRTGehIr7rpkHGKoD8ij8MKUzrYcO5CJVG76joiYW/q7OsdgGHPjw/Z68fGqpuFqkvm2961vYhMVnlOzJhDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink455-438.delta" sparkle:deltaFrom="438" length="5861914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4vBJ9a0VVa89PABbOQmMqwLsI+oqHg6Iut3BHvuZl7fs+aBkLTh8fo7/CAPwfou2xhkcOTEe1eu46OmCopdTAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink455-437.delta" sparkle:deltaFrom="437" length="6020854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Qgd5qtkq/6DvBVm00EiHE4HRPyyurDIhLoj39GQgpH9QmoywibLQjMmKfVHTZZukJ9GEvKcFzDrbbkmkx5ZBBQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink455-432.delta" sparkle:deltaFrom="432" length="6148794" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="noHbdAy+CHBLkOqrQoiHhx2tX1GaVdP0exPwzsovUFDuhFv70ga/n/e7zxvd0Qbw5eaRhyeKxjoWlDzGMHF9Dg=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink455-402.delta" sparkle:deltaFrom="402" length="6819858" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LF7+zYVkpwsXP4BN9IsyYNd6ePG4dfmRFiwF/N9ol43v+CTvNwujygfE7spE8ZPZaXtXWDzMF90rI1ZquK2qAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.454</title>
             <pubDate>Sat, 11 Jul 2026 12:15:38 -0700</pubDate>
             <sparkle:version>454</sparkle:version>
@@ -65,14 +123,6 @@
             <sparkle:shortVersionString>0.3.438</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.438.zip" length="33234198" type="application/octet-stream" sparkle:edSignature="J8Efvr2Ja9/kY8aAIbQ2SKDLiOK28nqKBR6q2yYbYarFlJ9H/+D0yUTwPgEtSYXJu8YrqFTNg/6HOr2rdJlWDA=="/>
-        </item>
-        <item>
-            <title>0.3.437</title>
-            <pubDate>Fri, 10 Jul 2026 19:11:32 -0700</pubDate>
-            <sparkle:version>437</sparkle:version>
-            <sparkle:shortVersionString>0.3.437</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.437.zip" length="33007835" type="application/octet-stream" sparkle:edSignature="BaJHMg4yr8ZA4Q/UwkNdrUsV0PNec3Ywxx+papMDKmctmQ3Vrm/AbfMcvIxm7qDEAImSoNm/bJIXU3lZVjhEDg=="/>
         </item>
     </channel>
 </rss>
