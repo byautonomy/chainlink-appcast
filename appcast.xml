@@ -3,6 +3,101 @@
     <channel>
         <title>ChainLink</title>
         <item>
+            <title>0.3.489</title>
+            <pubDate>Sun, 12 Jul 2026 17:36:08 -0700</pubDate>
+            <sparkle:version>489</sparkle:version>
+            <sparkle:shortVersionString>0.3.489</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ChainLink 0.3.489</h2>
+<p class="sub">Training plans get a bigger playbook — plus an invite kit.</p>
+
+<h3>Training plans now vary workout structure</h3>
+<ul>
+  <li>Generated plans vary the <b>structure</b> of workouts, not just the length. A
+  threshold day might be classic even reps one week, over-unders the next, then a
+  climbing ladder; VO2 days rotate through 40/20 microbursts, hard-start reps and
+  float sets; endurance days mix in sustained top-of-zone blocks and cadence
+  drills.</li>
+  <li>No shape repeats until you have seen them all, and the session card always
+  describes exactly what the exported workout will make you ride.</li>
+  <li>Existing plans keep their sessions — the variety appears in newly generated
+  plans and rebuilt weeks.</li>
+</ul>
+
+<h3>Help us find more testers</h3>
+<ul>
+  <li>Settings &gt; <b>Invite a tester</b> now shows QR codes for both the
+  iPhone/iPad and Mac versions, and can share or email a ready-made invite card
+  with both links.</li>
+</ul>
+
+<h3>Milestones, plans and fixes</h3>
+<ul>
+  <li><b>Milestones got interesting</b> — switch between Lifetime and This Year on
+  the Goals page; the ladder re-centers on where you are, passed milestones light
+  up, and the next one shows live progress.</li>
+  <li><b>One active plan at a time</b> — starting an event plan now ends a running
+  maintenance block (with a note in its history) instead of counting the same
+  rides toward two targets at once.</li>
+  <li>Maintenance plans gained the full action menu: adjust the block's hours and
+  days, share it as a PDF, or end it.</li>
+  <li>Sharing a plan PDF now opens a working share panel (it could appear behind
+  the window and be unclickable).</li>
+  <li>The plan-generation sheet could clip its buttons off-screen on smaller
+  windows with no way to scroll — it now scrolls, and the buttons are always
+  visible.</li>
+  <li>Leaving a ride's detail page via the sidebar could strand a blank page with
+  a ghost back button — fixed.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.489.zip" length="34511033" type="application/octet-stream" sparkle:edSignature="bx29sB3eeWe0S9kAZqNbUKEQw+ApCuiydMgGd1jrl9S+9X5gXcBm7u1O1l/US467FLDuQO7pdGhoN4AEukMKCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink489-486.delta" sparkle:deltaFrom="486" length="3588430" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DkOlFw6DbXzsFE6Re2gPdVswvXS21w9AwMfaCe+q0XCbgHGPNapPOMfwtrw6ht7eUlCiwaWA0xoc4g6yIYwuDw=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink489-482.delta" sparkle:deltaFrom="482" length="4316838" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WQY/xHeOOGlG9QEGBo5SSDv+V13sdpm8GRG+Hm4MbWSIOMbAQOYdEl79d1viqkT3Y5pAXJmaZ/W4eL8nINiLDw=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink489-455.delta" sparkle:deltaFrom="455" length="5421178" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="idJusarbrjYOgUm31caXv45f2NgcEzBGZx9pGWmtyzWSHIDP5ioGFlesiakakNfRBDGy+A4YtHsiCXfzpNwCDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink489-454.delta" sparkle:deltaFrom="454" length="5416846" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="F3hdI9EVQFFRxwkRpsp2WXYY3vOJtU9V5Ce4zOrz6eSobxzOFGnPO4Rj0Vto5IG6k5CWxRi0mHkLS7c95t+lDw=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink489-438.delta" sparkle:deltaFrom="438" length="6840706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="B2i0ppkwjPpUCFIuLbhfI/3mJuHsLDBQKX7QjM1lPZHOOPPnVkxQpG8kFrRtwRTvb/CESvJTJD0I1T1G270CAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.3.486</title>
+            <pubDate>Sun, 12 Jul 2026 16:52:07 -0700</pubDate>
+            <sparkle:version>486</sparkle:version>
+            <sparkle:shortVersionString>0.3.486</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ChainLink 0.3.486</h2>
+<p class="sub">Training plans get a bigger playbook — plus an invite kit.</p>
+
+<h3>Training plans now vary workout structure</h3>
+<ul>
+  <li>Generated plans vary the <b>structure</b> of workouts, not just the length. A
+  threshold day might be classic even reps one week, over-unders the next, then a
+  climbing ladder; VO2 days rotate through 40/20 microbursts, hard-start reps and
+  float sets; endurance days mix in sustained top-of-zone blocks and cadence
+  drills.</li>
+  <li>No shape repeats until you have seen them all, and the session card always
+  describes exactly what the exported workout will make you ride.</li>
+  <li>Existing plans keep their sessions — the variety appears in newly generated
+  plans and rebuilt weeks.</li>
+</ul>
+
+<h3>Help us find more testers</h3>
+<ul>
+  <li>Settings &gt; <b>Invite a tester</b> now shows QR codes for both the
+  iPhone/iPad and Mac versions, and can share or email a ready-made invite card
+  with both links.</li>
+</ul>
+
+<h3>Fixes</h3>
+<ul>
+  <li>The plan-generation sheet could clip its buttons off-screen on smaller
+  windows with no way to scroll — it now scrolls, and the buttons are always
+  visible.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.486.zip" length="34465325" type="application/octet-stream" sparkle:edSignature="8Pgg5jtJPeQeRQtBt76llnzGomVOMfwlI086o1lC07zyIXa+7tdFEki8VN0YlLC6Aw5rD+0CQPbUMFGHqjMwBg=="/>
+        </item>
+        <item>
             <title>0.3.482</title>
             <pubDate>Sun, 12 Jul 2026 09:51:46 -0700</pubDate>
             <sparkle:version>482</sparkle:version>
@@ -60,120 +155,6 @@
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink482-438.delta" sparkle:deltaFrom="438" length="6594858" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zc6IVxwm9N7LxJnSmd3SIwmCDAxh0JVJt0IOhQZ2+FTTd4wVtdhAdG+Q5Vs2Dcjl9T413j/Zov6awpWumOriDg=="/>
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink482-437.delta" sparkle:deltaFrom="437" length="6746958" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XMa4Hl5ywVB4pR9Siz/kStZ5JNLWNn5mOZkBQaZFCpwkF3l9WYSXH6oZ1LmmRr1fiOMX69eP9M7kw2PD7D5PBQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink482-432.delta" sparkle:deltaFrom="432" length="6868342" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="j7vQYv0cxDoMEj15XzGQWqq1wbA07nK6Igt52wrhNrTTb4cOjlKjpGKKt1SDw5tiAZCUhMuysP4/ExGrl2XOBQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.455</title>
-            <pubDate>Sat, 11 Jul 2026 14:30:49 -0700</pubDate>
-            <sparkle:version>455</sparkle:version>
-            <sparkle:shortVersionString>0.3.455</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<style>
-  :root { color-scheme: light dark; }
-  body { font: 13px -apple-system, "Helvetica Neue", sans-serif; margin: 12px 14px; }
-  h2 { font-size: 14px; margin: 0 0 2px; }
-  p.sub { color: #808080; margin: 0 0 10px; font-size: 12px; }
-  ul { padding-left: 18px; margin: 6px 0; }
-  li { margin-bottom: 6px; }
-</style>
-<h2>ChainLink 0.3.455</h2>
-<p class="sub">A big update — everything since 0.3.438, plus a fix.</p>
-<ul>
-  <li><b>Fixed: the "Setting things up…" banner could get stuck</b> on screen
-  after launch even though your data was fully loaded. It now always clears.</li>
-  <li><b>New manual chapter: "Which rider are you?"</b> — 17 short rider profiles
-  (racer, randonneur, tourer, commuter, indoor rider, returning from a break…)
-  that point you at the parts of the app built for you. Start there if the manual
-  feels long.</li>
-  <li><b>AI Coach settings, redesigned</b> — one clear pick-one list of engines,
-  privacy options on top, and a model picker for each cloud engine (use exactly
-  the model you want).</li>
-  <li><b>Settings page design pass</b> — simpler layout, less clutter, details
-  tucked into expanding sections; Import and Preferences are now separate cards.</li>
-  <li><b>Events</b> — FKT attempts with target times and an attempts log;
-  multi-day events with daily distance/time targets that shape your training
-  plan; brevet records with Audax/Super&nbsp;Randonneur progress built from your
-  real rides.</li>
-  <li><b>Bring your coach's plan</b> — Training → Import a plan: paste it, review
-  what was read, adopt it. ChainLink tracks compliance without rewriting your
-  coach's structure.</li>
-  <li><b>Bikes</b> — mark a bike out of commission, away in another location, or
-  borrowed/rented; ride assignment and totals respect it.</li>
-  <li><b>Aspirations</b> — write a goal in your own words on the Goals page
-  ("I want to get faster at club crits") and the coach tracks it against your
-  actual numbers.</li>
-  <li><b>Week start</b> — choose Monday or Sunday weeks (Settings → Preferences);
-  all weekly stats follow.</li>
-  <li><b>Weather day call</b> — on a genuinely unrideable day the Overview
-  weather card now suggests what to do instead: your cross-training sports, the
-  trainer, or an earned day off, backed by your training data.</li>
-  <li>Plus: Rides refresh automatically after a Sync, faster page loads, and
-  assorted fixes.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.455.zip" length="34058021" type="application/octet-stream" sparkle:edSignature="iP+KLJbCIPZPPByLKC4Ud5UNQHEex5U2Cpi1424Vi0cWy56OuJc3ifZgLqiPCMfLHJ3rv93tecsGv8iFfvHsDQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink455-454.delta" sparkle:deltaFrom="454" length="2374318" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ihyRTGehIr7rpkHGKoD8ij8MKUzrYcO5CJVG76joiYW/q7OsdgGHPjw/Z68fGqpuFqkvm2961vYhMVnlOzJhDQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink455-438.delta" sparkle:deltaFrom="438" length="5861914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4vBJ9a0VVa89PABbOQmMqwLsI+oqHg6Iut3BHvuZl7fs+aBkLTh8fo7/CAPwfou2xhkcOTEe1eu46OmCopdTAA=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink455-437.delta" sparkle:deltaFrom="437" length="6020854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Qgd5qtkq/6DvBVm00EiHE4HRPyyurDIhLoj39GQgpH9QmoywibLQjMmKfVHTZZukJ9GEvKcFzDrbbkmkx5ZBBQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink455-432.delta" sparkle:deltaFrom="432" length="6148794" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="noHbdAy+CHBLkOqrQoiHhx2tX1GaVdP0exPwzsovUFDuhFv70ga/n/e7zxvd0Qbw5eaRhyeKxjoWlDzGMHF9Dg=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink455-402.delta" sparkle:deltaFrom="402" length="6819858" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LF7+zYVkpwsXP4BN9IsyYNd6ePG4dfmRFiwF/N9ol43v+CTvNwujygfE7spE8ZPZaXtXWDzMF90rI1ZquK2qAA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.454</title>
-            <pubDate>Sat, 11 Jul 2026 12:15:38 -0700</pubDate>
-            <sparkle:version>454</sparkle:version>
-            <sparkle:shortVersionString>0.3.454</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<style>
-  :root { color-scheme: light dark; }
-  body { font: 13px -apple-system, "Helvetica Neue", sans-serif; margin: 12px 14px; }
-  h2 { font-size: 14px; margin: 0 0 2px; }
-  p.sub { color: #808080; margin: 0 0 10px; font-size: 12px; }
-  ul { padding-left: 18px; margin: 6px 0; }
-  li { margin-bottom: 6px; }
-</style>
-<h2>ChainLink 0.3.454</h2>
-<p class="sub">A big update — everything since 0.3.438.</p>
-<ul>
-  <li><b>New manual chapter: "Which rider are you?"</b> — 17 short rider profiles
-  (racer, randonneur, tourer, commuter, indoor rider, returning from a break…)
-  that point you at the parts of the app built for you. Start there if the manual
-  feels long.</li>
-  <li><b>AI Coach settings, redesigned</b> — one clear pick-one list of engines,
-  privacy options on top, and a model picker for each cloud engine (use exactly
-  the model you want).</li>
-  <li><b>Settings page design pass</b> — simpler layout, less clutter, details
-  tucked into expanding sections; Import and Preferences are now separate cards.</li>
-  <li><b>Events</b> — FKT attempts with target times and an attempts log;
-  multi-day events with daily distance/time targets that shape your training
-  plan; brevet records with Audax/Super&nbsp;Randonneur progress built from your
-  real rides.</li>
-  <li><b>Bring your coach's plan</b> — Training → Import a plan: paste it, review
-  what was read, adopt it. ChainLink tracks compliance without rewriting your
-  coach's structure.</li>
-  <li><b>Bikes</b> — mark a bike out of commission, away in another location, or
-  borrowed/rented; ride assignment and totals respect it.</li>
-  <li><b>Aspirations</b> — write a goal in your own words on the Goals page
-  ("I want to get faster at club crits") and the coach tracks it against your
-  actual numbers.</li>
-  <li><b>Week start</b> — choose Monday or Sunday weeks (Settings → Preferences);
-  all weekly stats follow.</li>
-  <li><b>Weather day call</b> — on a genuinely unrideable day the Overview
-  weather card now suggests what to do instead: your cross-training sports, the
-  trainer, or an earned day off, backed by your training data.</li>
-  <li>Plus: Rides refresh automatically after a Sync, faster page loads, and
-  assorted fixes.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.454.zip" length="34056651" type="application/octet-stream" sparkle:edSignature="VcDCSdEq71U/czIa9nV4tFLdE0DCvpphaHSlez/wum09Vuirk4bFeoT7Jwg1M2b9Re1s9+xFnTrjlvN0VXIUAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink454-437.delta" sparkle:deltaFrom="437" length="6040022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9tZFZEGCPstf2Y6+jkH0KAcWTMRT3w6PRRsoOD/bvOQdHLXKvmmtAo4bRq5DCAanJAmhhoAM+BEMxFVp4HlmCQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink454-438.delta" sparkle:deltaFrom="438" length="5884302" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EcIzDFIZ+tWZbNXzKGDxYbttsM8pMembMwE7BkmLAdcgB+rmk7mjYvmV34WTdZxl8TtM1tRDAdLIvbZ5srWcBg=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink454-432.delta" sparkle:deltaFrom="432" length="6146170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kpjFdr3pWLlhxd2EQB8OUj9Mynx6rfbELdWGXJtSQM62ogqLSDqu3X8/7ookHWoV/wan4JDRu8+5mc/bm4u+Dw=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink454-401.delta" sparkle:deltaFrom="401" length="6816030" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="j72adke868KQE/QT4ZmttMEJi4Y2lUSWXAexu0g4mmetT92RZnjdOE63JcF32aK5TdUlQxVNjTBkM1FsY2IJDQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink454-402.delta" sparkle:deltaFrom="402" length="6839034" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/aVCvxWgwy8HUjuKNFZI7zM92d4yRjnQHHmwjWvlgCIzes/PWa3drZx81UXxyJ0B+Q8GPWNTEsrBxxxfsmE/Cg=="/>
             </sparkle:deltas>
         </item>
     </channel>
