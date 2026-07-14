@@ -3,6 +3,59 @@
     <channel>
         <title>ChainLink</title>
         <item>
+            <title>0.3.556</title>
+            <pubDate>Tue, 14 Jul 2026 16:49:31 -0700</pubDate>
+            <sparkle:version>556</sparkle:version>
+            <sparkle:shortVersionString>0.3.556</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ChainLink 0.3.556</h2>
+<p class="sub">A new interactive ride graph, a smarter Coach, and clearer iCloud syncing.</p>
+
+<h3>New: explore your ride graph</h3>
+<ul>
+  <li><b>Layer metrics together</b> — tap the chips to overlay up to four channels
+  at once (power, heart rate, elevation, temperature, core body temp…) and see how
+  they move against each other.</li>
+  <li><b>Zoom in on any stretch</b> — drag across the graph to zoom into a section;
+  the lines refit so it fills the view. Hit <b>Reset</b> to zoom back out.</li>
+  <li><b>Scrub for exact numbers</b> — hover (Mac) or drag your finger (iPhone/iPad)
+  along the graph and a readout shows every selected metric's value at that point.</li>
+  <li><b>A linked route map</b> — tap <b>Show map</b> and a route strip appears with
+  the graph. As you scrub, a dot rides along the route so you can see <i>where</i> you
+  were; zoom a graph section and the map flies to it. You can also drag the map to
+  zoom the graph — the two stay in sync both ways.</li>
+</ul>
+
+<h3>Coach: easier to read, and it remembers</h3>
+<ul>
+  <li>The Coach panel is now <b>expandable</b> and every reply has a <b>Copy</b>
+  button, so longer answers are easy to read and reuse.</li>
+  <li>Conversations are <b>saved</b> — reopen the history to pick up a past chat, and
+  pin the ones you want to keep. They sync across your devices.</li>
+</ul>
+
+<h3>Clearer iCloud syncing</h3>
+<ul>
+  <li>A fresh install now shows an honest <b>"Setting up ChainLink"</b> screen with a
+  real progress read-out instead of a wrong countdown, and your rides land as they
+  arrive.</li>
+  <li>A small <b>"Syncing with iCloud…"</b> note now appears whenever a background
+  sync is running for more than a moment — so an occasional slowdown always has an
+  explanation.</li>
+  <li>New devices show your key numbers (fitness, totals, recent rides) almost
+  immediately, instead of waiting for the whole library to download.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.556.zip" length="35387479" type="application/octet-stream" sparkle:edSignature="WK6/V0eBNIqT4GpPGKK6Ae/LK+sPYDvW5WX6IDL3AwVFdcd62py7rXiXJeQeuAaPEAdPVQpPuRCNVg7v+MglAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink556-542.delta" sparkle:deltaFrom="542" length="4991258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5ZOMiMfTMYnYHP1ANnGm8pnV0Plj2Jv8pW+G6iGHDUkTx+lgseVv7lzHwOfr9bHurSsvtW0CxaFKvspvgLUyAg=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink556-541.delta" sparkle:deltaFrom="541" length="4977726" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hbGW6jKkH05yZKBYejRP+BeEVPcC6rsaxeQHsvE+6RjkxNJPVq3JWU3B+KKF+wnnEvUpyJBeJs9H9G8fw4KSCg=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink556-540.delta" sparkle:deltaFrom="540" length="4963890" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Lsco88uQ6EMNhti+5jWNl2xwnZ9/aqXboQqnh4xMpoSgrtb1m55zuPaAAGQGVcIRRJ63v08yYNJV90duG8LNCA=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink556-539.delta" sparkle:deltaFrom="539" length="5024374" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eYzHN0e8cNEvESodMKG5gkuoL2itdKh+NkkKyJs5S1YvBeCHJ7Fwkjdfs2Kk7PaFaMSVIQ8KEa3Rtl1hj8QWDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink556-511.delta" sparkle:deltaFrom="511" length="5685018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jwIqWMzjvD7JOKvag5IRob4g6dgpLcMYn/Zic9NvhK9XcG8D4gVFwUP+gj2ONm/d/Bud663asMuHTCsjcBhtAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.542</title>
             <pubDate>Tue, 14 Jul 2026 05:46:14 -0700</pubDate>
             <sparkle:version>542</sparkle:version>
@@ -62,35 +115,6 @@
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink541-511.delta" sparkle:deltaFrom="511" length="5021406" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1T6B+rgBg9gd8X0YTPsk7Gqd8QoqeQquTQE/6/VTYMM0eDZdDewfDt4C8Oga82gDYLZ/lF1NtCTt1cW3CAWiAg=="/>
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink541-507.delta" sparkle:deltaFrom="507" length="5164966" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="r/29TkFJKadc+dYcsPn9XXwrRYU1Vu/8UUVvlnxxXqUmQiNLRCVLzZ76PlX6/SrJ+IWpHhqqYuKmtZy9bxUIAA=="/>
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink541-499.delta" sparkle:deltaFrom="499" length="5426002" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PpxTOvBr/ETuB/fcUh7N4t8eW3Wsgbo6vjMJ+5pIIgItAgaa+AOOQhHgsYeIFqZggD8AKYTEohoVAHvGi6/1Cw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.540</title>
-            <pubDate>Mon, 13 Jul 2026 20:47:00 -0700</pubDate>
-            <sparkle:version>540</sparkle:version>
-            <sparkle:shortVersionString>0.3.540</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ChainLink 0.3.540</h2>
-<p class="sub">Fixes duplicated bikes after an iCloud re-sync.</p>
-
-<h3>Fixed: bikes showing twice</h3>
-<ul>
-  <li>After certain iCloud re-syncs, every bike could appear <b>twice</b>, with
-  its rides split across the two copies. ChainLink already auto-healed
-  duplicated rides and profiles this way, but bikes had no such pass — now they
-  do. On launch it merges any duplicate bike back into one (matched by its
-  stable identifier, so genuinely different bikes are never combined), moving
-  <b>every ride, part, and maintenance record</b> onto the surviving bike. No
-  data is lost, and it settles itself the next time you open the app.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.540.zip" length="34998721" type="application/octet-stream" sparkle:edSignature="SiEHfTJORT6wPHWMnLGdRjy7yaEAblQTOnEGyBu67TjI7EM+VSFqcDeMKygZniPTpfsUm4WIcWii3/p9sU+2CQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink540-539.delta" sparkle:deltaFrom="539" length="3134930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pMUApS6ljTOBceJUlp6kYjHiyFhoQA+GFxGqbvRg4jXL0poYKcXhLeXgYMzorbGpTy7NujU/C5JTJc6eyTdYAw=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink540-511.delta" sparkle:deltaFrom="511" length="5063658" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pHHv6OFjRlztFoGNBsu/07cMKubLre1n9sycFPszP/1owmCaAudldCyigI9qO8NXk1H9Hnj+s92geQQ6LaRdCw=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink540-507.delta" sparkle:deltaFrom="507" length="5189802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+jEFncDPOgEa00iTVW86vYUceZWq5uo+Ve1gxA1qG+V4cCP8TBqNpUzMw7SFKEJt4h/0yimrgkdxyXaZTiwUCg=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink540-499.delta" sparkle:deltaFrom="499" length="5452302" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CXSSFcs0Bf9D7T/e+9pmdul3bySzrdEt+ij9rSoFKoyCLJXJsikm4jVmZDvU+ULiqg7hCy3gTRXaGhDWfIKfDg=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink540-498.delta" sparkle:deltaFrom="498" length="5534558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="r7HLwB71nRnZMm9HEDWiBSWhAMSORwdi8Bc6tbf0yppbMMLKHf4IAsktBu4a44T2jrJ+YNFCsViDOe1YW+4cBw=="/>
             </sparkle:deltas>
         </item>
     </channel>
