@@ -3,6 +3,78 @@
     <channel>
         <title>ChainLink</title>
         <item>
+            <title>0.3.539</title>
+            <pubDate>Mon, 13 Jul 2026 19:10:08 -0700</pubDate>
+            <sparkle:version>539</sparkle:version>
+            <sparkle:shortVersionString>0.3.539</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ChainLink 0.3.539</h2>
+<p class="sub">Log rides by hand, import from Zwift &amp; more, elegant PDF reports, and a smarter bike fit.</p>
+
+<h3>Log a ride — and import beyond FIT</h3>
+<ul>
+  <li><b>Log a Ride</b>: a new "＋ Add Ride" button on the Rides page lets you
+  type a ride in by hand — duration, distance, a "Feel" scale (Easy → Max) that
+  estimates your training load when there's no power or heart rate, plus an
+  optional details drawer for power/HR/cadence/etc. It also edits an existing
+  ride, so you can fix a bad import.</li>
+  <li><b>Import TCX, GPX and CSV</b>, not just FIT: a Zwift or TrainerRoad TCX
+  comes in complete (graphs, map and accurate TSS, like a FIT); a phone app's
+  GPX and summary CSVs work too. Each lands in a review sheet, pre-filled, so
+  you confirm or fill any gaps before it saves — and re-importing the same file
+  won't duplicate it.</li>
+  <li>The <b>Import window</b> got a full visual refresh to match the rest of
+  the app.</li>
+</ul>
+
+<h3>Elegant PDF reports</h3>
+<ul>
+  <li>The <b>build report</b> and <b>bike-fit sheet</b> share one polished
+  look — proper margins, page numbering, a date, and per-section subtotals.
+  Choose <b>A4 or US&nbsp;Letter</b> in Settings. The fit sheet is now
+  downloadable, not just shareable.</li>
+  <li>The build report shows both an <b>actual cost</b> (every part) and your
+  <b>cost to complete</b> (minus parts already in hand), in a more compact
+  layout.</li>
+</ul>
+
+<h3>A sharper bike fit</h3>
+<ul>
+  <li>Measure saddle fore/aft from the <b>80&nbsp;mm biomechanical point</b>
+  (where your sit bones load the saddle) instead of the fiddly nose — it's
+  repeatable and survives a saddle swap. A guide helps you find the point, and
+  the fit sheet prints an actual-size gauge.</li>
+  <li><b>No mental arithmetic</b>: measurements that used to want a difference
+  (setback, bar drop) now take two plain wall/floor readings and the app does
+  the sum, showing its working.</li>
+  <li>Your height and inseam show on the fit page, and every fit warning was
+  audited so it no longer cries wolf on a correct measurement.</li>
+</ul>
+
+<h3>AI coach</h3>
+<ul>
+  <li>Fixed the coach failing to answer on newer Google Gemini models (a
+  "thought signature" error) — the free Gemini option works again.</li>
+</ul>
+
+<h3>Also</h3>
+<ul>
+  <li>The bike <b>builder counts parts you need two of</b> (rotors, tyres,
+  valves…) — automatically, or set any quantity by hand.</li>
+  <li>The Rides toolbar is tidier on iPad, and cross-training activities in
+  "Log a Ride" now follow the sports you enable in Settings.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.539.zip" length="34983695" type="application/octet-stream" sparkle:edSignature="fwoHpDyrVIwd0fO1OBzBVq7x/Jgl2VONdDA/iHsUjUFQIU6QNRYvD18J1T+iYq+7C7zJOUVL7lp4C1LcPMNHDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink539-511.delta" sparkle:deltaFrom="511" length="4981874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="H5NyhA2yYVnwe8iYpEFghBi6lNperLVQVtDXEjg3eU+Vf/CS6dH9CalLSPVY95GV4Cuv8oTSXLuVsmjsitHeBw=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink539-507.delta" sparkle:deltaFrom="507" length="5088338" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zEI8mFFLG5DqyHYLM2Yx/fOrCD/QjoKatsU3fJ9VrFOil1N5IRTzR79mCSCiqiH5DyY5MAOyW2AzE1immb1jDg=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink539-499.delta" sparkle:deltaFrom="499" length="5455470" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ik8LJEjL2PNqQROIWkWB7SR4wkwuLlt2oqxz4Mr7/S4P/iMCE6DdBi3gehWoty2crOuBwMhP/ZZbAk8d9ikjBg=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink539-498.delta" sparkle:deltaFrom="498" length="5414482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="G+4Lu81K2h9MJW4Wwkkv9i2hyEiYF3AIVUL9oGdQVWV4ZDUgre4Y2Wxfiv2Ul9UFHpYgHwp4O9DjEZT0GG8rDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink539-492.delta" sparkle:deltaFrom="492" length="5648582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cc06C8nyoEOBw6TI9daGB/UZ3jJp2orG6T7LxbPLMbmetNaVs803jDC8oKt3mAOAbq55JTcZ5+PJ38fCWaUjCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.511</title>
             <pubDate>Mon, 13 Jul 2026 11:42:54 -0700</pubDate>
             <sparkle:version>511</sparkle:version>
@@ -103,35 +175,6 @@
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink507-492.delta" sparkle:deltaFrom="492" length="4483770" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="F14uiWZRZH6UmIs7awqI4Yc3wkipobP3fXslMOcI67gh2BjkC1f7bB6Od0uV7OkSQbecv17+0osQ0M0Ky1ozAQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink507-489.delta" sparkle:deltaFrom="489" length="4579366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+aYluKwe3zsv5g27WN1Lxb1mFTswAbXDbbj+79HY6ply2BgyUyM6kXw+d1ulv50Ob9T1Zsl6nNIgF5xQuFwcBw=="/>
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink507-486.delta" sparkle:deltaFrom="486" length="4841110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MPgW3ONjjoRqYZXXUuJHd7D+XquNgPtbDi2gsWvsa51ic802W61Mse9P3mPrN4A7dRcMg0a2OM5DT6iWR2QICg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.499</title>
-            <pubDate>Mon, 13 Jul 2026 08:41:13 -0700</pubDate>
-            <sparkle:version>499</sparkle:version>
-            <sparkle:shortVersionString>0.3.499</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ChainLink 0.3.499</h2>
-<p class="sub">Coach Insights numbers now match the calendar.</p>
-
-<h3>Fixed</h3>
-<ul>
-  <li>Coach Insights no longer double-counts rides that arrive from two
-  connected services (e.g. Garmin <em>and</em> Strava). Training-load
-  warnings, the Monday weekly review and record detection now use the same
-  numbers as the training calendar — no more "1088 TSS" cards for a
-  558-TSS week.</li>
-  <li>Load warnings are now honest about their window: they look at your
-  <b>last 7 days</b> (rolling), not the calendar week.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.499.zip" length="34588522" type="application/octet-stream" sparkle:edSignature="6rzP1ank8GHSj7zHyRS1gnbwCX8hpY9PsLtm/O30CghMOYrg8gh8/3l09wqbb808P9DHdEzn+FshHHRpcOGtBQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink499-498.delta" sparkle:deltaFrom="498" length="2169486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GTuZc+PzTGocDfqg9XZDQXwbkdS1mEWBn8kRgkF9+3lGyURXYowbpRS4kVoT0TOkZhEpgkzJtKP/J8NSwa/QCQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink499-492.delta" sparkle:deltaFrom="492" length="4112206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0o4SsHdmHsRpiNpUf3pXgYR9ZuyfNqORrZkHrSKlfDXZe1WUW09avnMrNTEkxZLVcXTJ+9ryDaefu9UoLnJyCw=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink499-489.delta" sparkle:deltaFrom="489" length="4241394" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="juZ7kp7QcmyGEXU+2UIsBmFyQaJQ0aKoum4cHqriP8v+MAv72PO1PR40FJE45x9C4P9tv4Beynd8Wm/Gv5HeCg=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink499-486.delta" sparkle:deltaFrom="486" length="4452366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="paIVcKnXdkNWKx7utsSQcjN3hgx68LLzkSX43ORfGAI4tuvKdmckVAMIB4WUck0BeWr2KcZD+Ds/3Hxb5t+qDQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink499-482.delta" sparkle:deltaFrom="482" length="4719238" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tURZ2y8hHczq2Ao5w6vKHydhIkASB1E19UyJ0EjSXOeUNidKY7YZ3xQ4vbBwIk3bbmUS8WE3AIwkXJ+fEcSfBQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
