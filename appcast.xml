@@ -3,6 +3,73 @@
     <channel>
         <title>ChainLink</title>
         <item>
+            <title>0.3.663</title>
+            <pubDate>Sun, 19 Jul 2026 14:52:51 -0700</pubDate>
+            <sparkle:version>663</sparkle:version>
+            <sparkle:shortVersionString>0.3.663</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ChainLink 0.3.663</h2>
+<p class="sub">Your fitness numbers now describe today — and they agree on every device.</p>
+
+<p>This is a big one. If you have ever looked at your threshold and thought
+"that isn't me any more", this release is the fix.</p>
+
+<h3>Your fitness signature now changes with your training</h3>
+<ul>
+  <li><strong>It goes down as well as up.</strong> Previously your threshold, matchbook
+  and peak power could only ever rise — a single great ride years ago set a number
+  that never came back down. Now they follow your training load: keep training and
+  they hold, ease off and they drift, and a hard effort pushes them back up.</li>
+  <li><strong>Each energy system moves at its own pace</strong>, so a block of long
+  steady miles keeps your endurance while your sharp edge fades — which is what
+  actually happens.</li>
+  <li><strong>All three numbers are now measured from your own riding</strong> rather
+  than estimated from a starting guess.</li>
+</ul>
+
+<h3>Breakthroughs</h3>
+<ul>
+  <li>Rides that genuinely raised your fitness now get a <strong>gold, silver or
+  bronze badge</strong> in your ride list, and there is a new
+  <strong>Breakthroughs</strong> page under Fitness showing what each one moved.</li>
+  <li>A new <strong>Career Bests</strong> card records your best ever effort at each
+  duration. These never decay — they are a record of what you have done, kept
+  separate from what you can do today.</li>
+</ul>
+
+<h3>The same numbers everywhere</h3>
+<ul>
+  <li>Your Mac, iPhone and iPad now show <strong>identical</strong> fitness numbers.
+  They are worked out from your rides on each device rather than copied between
+  them, so they cannot drift apart.</li>
+  <li><strong>You no longer need a Mac.</strong> Ride detail and fitness analysis work
+  the same on an iPhone or iPad alone.</li>
+  <li>If your numbers ever look wrong: <strong>Settings → Maintenance → Recompute
+  fitness data</strong>. It is safe, nothing is deleted, and running it twice
+  changes nothing.</li>
+</ul>
+
+<h3>Fixes</h3>
+<ul>
+  <li>Dodgy power readings — the spikes you get from a dying battery or a sensor
+  glitch — no longer pollute your power curve or peak power.</li>
+  <li>The coach no longer describes an old peak as your current fitness.</li>
+  <li>Faster, more accurate ride detail on phones and iPads.</li>
+  <li>Various layout fixes on iPhone.</li>
+</ul>
+
+<p class="sub">Coming from 0.3.628? This includes everything since — quite a lot.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.663.zip" length="36967671" type="application/octet-stream" sparkle:edSignature="xAZrwJ35cHROfOxvkLP01dU3RYMA+Tjaf2e0AWXcdIIu2RT5XmPYjfKK4WDIHO30T2ucRPyQFX6LxKJz0fCeDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink663-629.delta" sparkle:deltaFrom="629" length="4868634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JXy/G+vyurcNotVQI+d83j8+bIwlupwKC5EbkaG0Ckh3cCBDzQoi7CUeJkRhbXh+Y9zxNRYYIXYEX+QuTnckDg=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink663-628.delta" sparkle:deltaFrom="628" length="4930494" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BLpf/DSqjdXINc9WbVxO+aE3Y1san/hS9QMarvgIpQzyKDpWmXa2fL+WnkyymDEaVQGg0lkJHNjb+UuxztGsCw=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink663-613.delta" sparkle:deltaFrom="613" length="5274346" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GS2mXOdASOCDHljnD15SDvt61Yg2SeiI6Bfgk+32ZCQDe8rDHf19lT4N0radaIbdliUPW74AHdcnoWL3fV1KCQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink663-609.delta" sparkle:deltaFrom="609" length="5329950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="O+PUyBym7st6oUOQxp9JdTFRLwtMFRvuh8r+I9lJLi/ciD8cqYryP8tLNoDgPvsk6eCDPWPRATAdx76d9wUzBQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink663-556.delta" sparkle:deltaFrom="556" length="7317098" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="llfCgr2FybKjsWHuHg2Cjy0JiWTQi0C2CCXS3MS6CRlaCi2ilQSaXD/L+v1TLuziXG+qusHUfktIW4YfYKXnAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.629</title>
             <pubDate>Thu, 16 Jul 2026 10:45:00 -0700</pubDate>
             <sparkle:version>629</sparkle:version>
@@ -68,62 +135,6 @@
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink628-556.delta" sparkle:deltaFrom="556" length="6717102" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cQuJRpl0ROsPNtysQdX72gZtEMjthSi17a1q4rrEe+SXCy4meOfEJQtbJd+9VaSOlLNJ0ZYBRcqjjobe7UuVCA=="/>
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink628-542.delta" sparkle:deltaFrom="542" length="7291634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="W5MWMrkO4vs5aDk6E9n7tPlDY3o8iG0jxO+1ncmHdi+PeGzwCmHLj8UdVp4fQ73tTAdW7PH0ZXG2PX5cEJsNDA=="/>
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink628-541.delta" sparkle:deltaFrom="541" length="7297886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mMNSQb1F2VSdC3jCSIhw8SZ3Sr+GBJo95tHCl8K+OXa4nUGxscQlzIwaV1ygdsrXgpAKMVhFkzgbdqpkVTwNDg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.613</title>
-            <pubDate>Wed, 15 Jul 2026 21:04:02 -0700</pubDate>
-            <sparkle:version>613</sparkle:version>
-            <sparkle:shortVersionString>0.3.613</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ChainLink 0.3.613</h2>
-<p class="sub">Guided Bike Fit wizards, smarter coaching, an easier way to get your rides in, and polish.</p>
-
-<h3>Getting your rides in — easier</h3>
-<ul>
-  <li>First-run setup now lets you <b>sign in to Garmin Connect</b> right there.</li>
-  <li>The <b>Import</b> screen is reorganised by what works best: <b>connect a service once</b>
-  (Garmin Connect, Ride with GPS, Karoo, Strava) at the top so your history and every new
-  ride flow in; files and the USB cable in the middle; and the full Garmin account-export
-  ZIP <b>last</b> — it's the slowest option (Garmin can take up to 30 days to email it),
-  with a direct link to request it. Garmin Connect signs in right from that screen.</li>
-</ul>
-
-<h3>New: guided Bike Fit measurement</h3>
-<ul>
-  <li><b>Measure step by step</b> — wizards for your body and each bike: one measurement per
-  screen with a diagram and plain instructions, including a proper explanation of the
-  <b>wall &amp; floor method</b> (the app does the subtraction).</li>
-  <li>A green-amber-red <b>flexibility scale</b> shows how low your bars should go, your sweet
-  spot, and where your current bike sits — with a "guide, not a fitter" note up top.</li>
-</ul>
-
-<h3>Smarter coaching &amp; a truer Power Profile</h3>
-<ul>
-  <li><b>You rode — but not the plan</b>: each planned session compares prescribed vs actual,
-  read in context, plus a weekly roll-up. Ask the coach to <b>adjust today's session</b> and
-  it rewrites it; new <b>Critical Power</b> test and <b>.zwo / .fit workout import</b>.</li>
-  <li>Rider type is now graded on <b>watts-per-kilo</b> (a light climber reads as a climber),
-  and the <b>Coach's Read</b> compares your peaks against your current form instead of
-  treating an old best as today's fitness.</li>
-</ul>
-
-<h3>Bikes, builds &amp; fixes</h3>
-<ul>
-  <li><b>Compare builds</b> side by side and export a PDF; the <b>Workshop</b> tracks tools
-  you've lent out.</li>
-  <li><b>Back</b> returns you to the page you came from; tapping a ride title in Courses opens
-  that ride; Rider Profile buttons and the expanded Courses view no longer misbehave on
-  narrow layouts. The in-app manual has been thoroughly updated.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.613.zip" length="36588344" type="application/octet-stream" sparkle:edSignature="jZjMBWBF2niYqIPUPYgWm4fhcKh67lBx/Y4yJbZ9j3+vKABRb/EsUfxi68NgRuB7GVUZZ3AXaCbdtPTxvVraBw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink613-609.delta" sparkle:deltaFrom="609" length="3464710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="T7Qw712wM1eTDKlCnZcm0ElEEHLx62Q2zGm/axZjKNAHu6I5S9fBdRYc+wx5mqdZO1nlmJ4WpIUj2JgTB6B/BA=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink613-556.delta" sparkle:deltaFrom="556" length="6619730" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6n9gIqprbCcReCe88gm8Z+cBgKT6iJEXJcmH71H52fnD7pNku1sMf4s3190hxx+azSfdtkvEz8BFUEp/vS9TAQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink613-542.delta" sparkle:deltaFrom="542" length="7173090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kKype8odslmOhX+G1IO+VMfr+TO5OpC1p480+lJivs0yIjQOKTlKFJvt4FXESiMe74hD6rHx6Gk1hD9oP2WqBg=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink613-541.delta" sparkle:deltaFrom="541" length="7114226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cNbsgOenBEchhRSEjEFPht98D03pDwU+ZfZlIa4lZt13kFRPk4dxd05s+tGUu5oTlyCqSrpLbt9Yu+wKL32dAA=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink613-540.delta" sparkle:deltaFrom="540" length="7095298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LllB7z/mbyc4x7RI3mAQ36s0IeXaOn20brmdFps87/+6iIzD37BaGgo2EUd5NRwZnDJxQMiHyPmhsxGMJSAaDA=="/>
             </sparkle:deltas>
         </item>
     </channel>
