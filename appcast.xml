@@ -3,6 +3,53 @@
     <channel>
         <title>ChainLink</title>
         <item>
+            <title>0.3.665</title>
+            <pubDate>Sun, 19 Jul 2026 15:26:44 -0700</pubDate>
+            <sparkle:version>665</sparkle:version>
+            <sparkle:shortVersionString>0.3.665</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ChainLink 0.3.665</h2>
+<p class="sub">Everything from 0.3.663, plus two additions to the ride graph and your records.</p>
+
+<h3>New since 0.3.663</h3>
+<ul>
+  <li><strong>Zoom the performance graph and the averages follow.</strong> Drag to
+  select a climb, a sprint or an interval and the legend reports the averages for
+  <em>that section</em> — power, heart rate, speed, elevation — rather than the
+  whole ride. The selection is tinted and labelled with its length so it can't be
+  mistaken for the ride average. Reset to go back to the full ride.</li>
+  <li><strong>Career Bests are clickable.</strong> Each record now names the ride
+  that set it and opens straight to it, so you can check a number rather than
+  take it on trust.</li>
+</ul>
+
+<h3>And everything from 0.3.663</h3>
+<ul>
+  <li><strong>Your fitness signature now goes down as well as up.</strong> It follows
+  your training load rather than remembering a good day forever — keep training and
+  it holds, ease off and it drifts, and a hard effort pushes it back up. Each energy
+  system moves at its own pace.</li>
+  <li><strong>Breakthrough badges</strong> on rides that genuinely raised your fitness,
+  a <strong>Breakthroughs</strong> page under Fitness showing what each one moved, and
+  a <strong>Career Bests</strong> record that never decays.</li>
+  <li><strong>The same numbers on every device</strong>, worked out from your rides
+  rather than copied between them — and <strong>no Mac required</strong>.</li>
+  <li>Dodgy power spikes from a dying battery or sensor glitch no longer pollute your
+  power curve or peak power.</li>
+  <li>If anything ever looks wrong: <strong>Settings → Maintenance → Recompute fitness
+  data</strong>. Safe, nothing is deleted, running it twice changes nothing.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.665.zip" length="36999437" type="application/octet-stream" sparkle:edSignature="C6K0GP1Whht8PJEdPudTfZK7qUhaovd1IDFEbsz/mK5CR6x1XYmgL517plNBV40bS0aSV1T+3yR8ooBOZoZWDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink665-663.delta" sparkle:deltaFrom="663" length="3615254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0U5UJS3fI7/wZ15UCZ4JzGkmqczhMB3oqbQ6PJJKnCoRPdRCj8M3jh6cgf8DK4fq0VPwLuBk8JjP0g5CjnZyCg=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink665-629.delta" sparkle:deltaFrom="629" length="4940794" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VpyM8buuZw8QWX4OBDvXvsipS3fJ/K9X5EL5GnR0GHQ1n6dfgr49t6lWNET37+lf1dKYv915L6EixMPs5JKkCA=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink665-628.delta" sparkle:deltaFrom="628" length="4909738" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LEtEuV2Sk6BRASQewYxpTxIjsM3DYN5nNTGFYzUcW/taPKK8KWI7iBtCoip+XubXxrWHIYCuBQXzL9uB7do8AQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink665-613.delta" sparkle:deltaFrom="613" length="5278602" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LuGnSyl40I0ghDL/8e4aJyyNu84WkwWPe0GES2M23Li779WM8Dybwi9/TutgL1mZtM72ufW3x4goK+rAaDRZDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink665-609.delta" sparkle:deltaFrom="609" length="5383110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nUI1HR+FQ3p7VlcEHY45gsIzx7tH0wyIXMBnkOPnFzGluyPjK3asB9qbxaE0TxIAZuH3XAU6Bv8QYzza0zsTDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.663</title>
             <pubDate>Sun, 19 Jul 2026 14:52:51 -0700</pubDate>
             <sparkle:version>663</sparkle:version>
@@ -92,49 +139,6 @@
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink629-609.delta" sparkle:deltaFrom="609" length="4407634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="g+NTIayA9dQIuFsZ0v6zHQtFjhiLq1gho8YL6j04olpIKt7z+Osd7g19ks4qK7Hqr5uOTlyY6aP+rsjNWcg7Aw=="/>
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink629-556.delta" sparkle:deltaFrom="556" length="6738082" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jHFTsQuuSK0XBhRSJjoqDHNLCYyRVm1EIMd2Z2TrAknUQdRBF7WSJD9ENT4yC927y8AWG6OJj4Ofyvy3X3yFAA=="/>
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink629-542.delta" sparkle:deltaFrom="542" length="7342842" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GXaM6idrAOoIbLTV1xlbOFQlnJe91k5iBmhKl10UgijX+HzC3oFUfWsAZl5D3cmrGeQXkLgLd+/sGDF0JfBlBQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.628</title>
-            <pubDate>Thu, 16 Jul 2026 08:47:31 -0700</pubDate>
-            <sparkle:version>628</sparkle:version>
-            <sparkle:shortVersionString>0.3.628</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ChainLink 0.3.628</h2>
-<p class="sub">Bike Fit can now look up a bike's geometry for you, a coach that can check the web, and polish.</p>
-
-<h3>Bike Fit — look up a bike's geometry</h3>
-<ul>
-  <li>In <b>Candidate Bikes</b>, type a brand + model and its frame size, click <b>Look up geometry</b>,
-  and ChainLink searches the web for the manufacturer's published <b>stack and reach</b> and fills the
-  fields — then judges whether your measured position is reachable on that bike.</li>
-  <li>It shows where the numbers came from and reminds you to double-check the maker's chart. Once looked
-  up, the same bike + size is <b>remembered</b>, so re-checking it is instant.</li>
-  <li>New separate <b>Frame size</b> field so you're prompted for it.</li>
-</ul>
-
-<h3>A coach that can check the web</h3>
-<ul>
-  <li>The AI coach can now do a real <b>web search</b> for current facts — a bike's geometry or weight,
-  a component spec or price, an event date — instead of answering from memory. It uses whichever coach
-  you've set up (<b>Claude, OpenAI, or Google Gemini</b>); no extra key needed.</li>
-  <li>On the private on-device coach (which can't reach the web), it now says so clearly.</li>
-</ul>
-
-<h3>Fixes &amp; polish</h3>
-<ul>
-  <li>Bike Fit now catches an <b>impossible saddle-to-bar measurement</b> instead of silently trusting it.</li>
-  <li>Typed-in candidate bikes are kept between launches.</li>
-  <li>The Google Gemini coach now uses the latest <b>Flash</b> model — faster and more reliable, same cost.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.628.zip" length="36663862" type="application/octet-stream" sparkle:edSignature="6/n8n+roCLocm90bQUp1fUkZ657tkI77NbaYpoYKuykWDz7iy0dXMfYGaW9LnVnVM87I0ow97xHkSNvlMfNhAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink628-613.delta" sparkle:deltaFrom="613" length="4163646" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EIoGh2ulpdglAQAG1xbYcXUQmgX7NtH42c71IboBocQUwuzjx88NGy3R5RqAq9ocyz/KXL2Vc+Mah+QXdZ2rAQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink628-609.delta" sparkle:deltaFrom="609" length="4359330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SUqIk4XnZqkbJdVxLAD32VIDB9muTWI/2fSl3prfEc0jzO7Zb3YGKfI2DfsBhc651UFQ8gbtE0CdWZVNmUorDQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink628-556.delta" sparkle:deltaFrom="556" length="6717102" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cQuJRpl0ROsPNtysQdX72gZtEMjthSi17a1q4rrEe+SXCy4meOfEJQtbJd+9VaSOlLNJ0ZYBRcqjjobe7UuVCA=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink628-542.delta" sparkle:deltaFrom="542" length="7291634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="W5MWMrkO4vs5aDk6E9n7tPlDY3o8iG0jxO+1ncmHdi+PeGzwCmHLj8UdVp4fQ73tTAdW7PH0ZXG2PX5cEJsNDA=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink628-541.delta" sparkle:deltaFrom="541" length="7297886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mMNSQb1F2VSdC3jCSIhw8SZ3Sr+GBJo95tHCl8K+OXa4nUGxscQlzIwaV1ygdsrXgpAKMVhFkzgbdqpkVTwNDg=="/>
             </sparkle:deltas>
         </item>
     </channel>
