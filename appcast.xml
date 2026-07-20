@@ -22,13 +22,21 @@
   <li>Includes everything from 0.3.665 — the fitness signature that follows your
   training, breakthrough badges, career bests, and zoom-scoped graph averages.</li>
 </ul>
+
+<h3>A note about Strava</h3>
+<p>As of 30 June 2026, Strava requires an <strong>active Strava subscription</strong>
+for the API access ChainLink's Strava connection uses. If your subscription has
+lapsed, the connection will stop working — that's Strava's change, not a ChainLink
+bug, and the app now says so plainly instead of showing "Connected" next to an
+error. If you sync through <strong>Garmin Connect</strong> you're unaffected, and
+it remains the recommended way to get rides in.</p>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.668.zip" length="37035279" type="application/octet-stream" sparkle:edSignature="DjLUuiEAzt+U8q9iMXmJ5V4Ug2SCKtmXbK+duGQwKy221cVVSkKkbVz+UiGTbF7/pXjK2fgbdnngULIoNMNiDQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.668.zip" length="37035234" type="application/octet-stream" sparkle:edSignature="/amjLGxSquvsfawH2F3sXwe+yrJTH6zaNGEbf2hXtN9B456OSosAXBIkkFmQG8wjjBHQ+iQ+SpAj3XTm7m/2DQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink668-665.delta" sparkle:deltaFrom="665" length="3732918" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Q3/1Hvg31PjoHvtaATu+ScCBXR+6EyYH+nkpZ//O334VurGgO6e0nkmTs2u3wJ73ufI3Rpv4NQ8Om3Y99rSDCQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink668-663.delta" sparkle:deltaFrom="663" length="4048826" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pJIfd3Ha/6jCArdnlDmojtelHQx7O6BF58Iz5y1bKeemn1IUYk0XhqHXLHvQWRaPQQ8NJ4BfUzwB0kmbw5OAAQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink668-629.delta" sparkle:deltaFrom="629" length="5013162" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6Mpni3NbXXNBJPG8jIB0M2Gmiyd/qIGaULwLIQLMxPFl3Zj6kWxOYs/DKCJD2H+OWdEuQRy27BEb7OwD5FgCCQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink668-628.delta" sparkle:deltaFrom="628" length="5042386" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AHiMqNKYTDeult66KV1Ko99bc/k3U+28VPcFLQyHD62JfRENucPyuQhk8zviXQHsYBxOM6VqcQ2f09Ezjw6wDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink668-629.delta" sparkle:deltaFrom="629" length="5013162" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6Mpni3NbXXNBJPG8jIB0M2Gmiyd/qIGaULwLIQLMxPFl3Zj6kWxOYs/DKCJD2H+OWdEuQRy27BEb7OwD5FgCCQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink668-613.delta" sparkle:deltaFrom="613" length="5376010" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BRog4ohWbJq2e8dxlZnt3lGv+xgw5vtyKzfbW4dsAaHLcD/NJfsDVJnoj4SRivTmN3INbgukEgU7juTVwVG8Bg=="/>
             </sparkle:deltas>
         </item>
