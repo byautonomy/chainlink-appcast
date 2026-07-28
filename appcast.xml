@@ -3,6 +3,36 @@
     <channel>
         <title>ChainLink</title>
         <item>
+            <title>0.3.669</title>
+            <pubDate>Tue, 28 Jul 2026 09:45:26 -0700</pubDate>
+            <sparkle:version>669</sparkle:version>
+            <sparkle:shortVersionString>0.3.669</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ChainLink 0.3.669</h2>
+<p class="sub">Pull to refresh, and a faster app on iPhone.</p>
+
+<ul>
+  <li><strong>Pull to refresh.</strong> Drag down on the Rides or Overview page to
+  sync your connected ride services — the same as tapping Sync.</li>
+  <li><strong>Noticeably faster on iPhone.</strong> Two pieces of hidden overhead
+  removed: the app was re-reading large ride data from disk just to check it
+  existed, and re-running the full fitness computation on every launch even when
+  nothing had changed. Launch and the Rides page should both feel snappier.</li>
+  <li>Includes everything from 0.3.668 — the duplicate-event fix, dated
+  "longest recent ride" stat, instant Career Bests, and the note about Strava's
+  new subscription requirement.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.669.zip" length="37046477" type="application/octet-stream" sparkle:edSignature="r/zQXHoOsgF2yPhNj+C84iM+tQEfg99lTEiHHDcqlcbRpEA29WUdooTU0wvb3hP0sVLSGg/44g+/PtdXbISqCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink669-668.delta" sparkle:deltaFrom="668" length="3571914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UUoBBQn9bYgfKIbuBgzaB3nA+hZUo0D0SKBfLDyK9t8+BBWyDaPZcSYAltrQGeKKoQeOS+cSagoW2rfANKXoDg=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink669-665.delta" sparkle:deltaFrom="665" length="4103998" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="03bh9W4cu8PWfXqxfzp6WypO9rG/sjl1nG2m6X8vKVc4DvPzlNvNFrPr4T+6bwjfjg+b6zeBFi2gd/02XP31Cg=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink669-663.delta" sparkle:deltaFrom="663" length="4333662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rzcNSbDnVUZ/4FXDBBt6Lvm2izeEnlDSEHVbEk+/kIIO8SOm8jSRDy5R9QQ5XYsstcGHgoCha9JO6L3ty07fBw=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink669-629.delta" sparkle:deltaFrom="629" length="5211450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ubyEPycf+N7Jm4sZ3RRhXQ++ZCWmmK6Z8tO0eIR6sMwJtgZqyEPa9Lg1cIbjVDevdEfhEOOnTfqQeKo7hFTjDw=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink669-628.delta" sparkle:deltaFrom="628" length="5182398" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GgrM/ZgnkGxnsQhJ4XxPjLbpXPyzj7La9odervrj2jzEdIWbUeLkv0e+yJBDyCefSvNnrfGdsGwmwK0hBG8TBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.668</title>
             <pubDate>Mon, 20 Jul 2026 08:00:56 -0700</pubDate>
             <sparkle:version>668</sparkle:version>
@@ -85,73 +115,6 @@ it remains the recommended way to get rides in.</p>
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink665-628.delta" sparkle:deltaFrom="628" length="4909738" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LEtEuV2Sk6BRASQewYxpTxIjsM3DYN5nNTGFYzUcW/taPKK8KWI7iBtCoip+XubXxrWHIYCuBQXzL9uB7do8AQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink665-613.delta" sparkle:deltaFrom="613" length="5278602" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LuGnSyl40I0ghDL/8e4aJyyNu84WkwWPe0GES2M23Li779WM8Dybwi9/TutgL1mZtM72ufW3x4goK+rAaDRZDA=="/>
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink665-609.delta" sparkle:deltaFrom="609" length="5383110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nUI1HR+FQ3p7VlcEHY45gsIzx7tH0wyIXMBnkOPnFzGluyPjK3asB9qbxaE0TxIAZuH3XAU6Bv8QYzza0zsTDQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.663</title>
-            <pubDate>Sun, 19 Jul 2026 14:52:51 -0700</pubDate>
-            <sparkle:version>663</sparkle:version>
-            <sparkle:shortVersionString>0.3.663</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ChainLink 0.3.663</h2>
-<p class="sub">Your fitness numbers now describe today — and they agree on every device.</p>
-
-<p>This is a big one. If you have ever looked at your threshold and thought
-"that isn't me any more", this release is the fix.</p>
-
-<h3>Your fitness signature now changes with your training</h3>
-<ul>
-  <li><strong>It goes down as well as up.</strong> Previously your threshold, matchbook
-  and peak power could only ever rise — a single great ride years ago set a number
-  that never came back down. Now they follow your training load: keep training and
-  they hold, ease off and they drift, and a hard effort pushes them back up.</li>
-  <li><strong>Each energy system moves at its own pace</strong>, so a block of long
-  steady miles keeps your endurance while your sharp edge fades — which is what
-  actually happens.</li>
-  <li><strong>All three numbers are now measured from your own riding</strong> rather
-  than estimated from a starting guess.</li>
-</ul>
-
-<h3>Breakthroughs</h3>
-<ul>
-  <li>Rides that genuinely raised your fitness now get a <strong>gold, silver or
-  bronze badge</strong> in your ride list, and there is a new
-  <strong>Breakthroughs</strong> page under Fitness showing what each one moved.</li>
-  <li>A new <strong>Career Bests</strong> card records your best ever effort at each
-  duration. These never decay — they are a record of what you have done, kept
-  separate from what you can do today.</li>
-</ul>
-
-<h3>The same numbers everywhere</h3>
-<ul>
-  <li>Your Mac, iPhone and iPad now show <strong>identical</strong> fitness numbers.
-  They are worked out from your rides on each device rather than copied between
-  them, so they cannot drift apart.</li>
-  <li><strong>You no longer need a Mac.</strong> Ride detail and fitness analysis work
-  the same on an iPhone or iPad alone.</li>
-  <li>If your numbers ever look wrong: <strong>Settings → Maintenance → Recompute
-  fitness data</strong>. It is safe, nothing is deleted, and running it twice
-  changes nothing.</li>
-</ul>
-
-<h3>Fixes</h3>
-<ul>
-  <li>Dodgy power readings — the spikes you get from a dying battery or a sensor
-  glitch — no longer pollute your power curve or peak power.</li>
-  <li>The coach no longer describes an old peak as your current fitness.</li>
-  <li>Faster, more accurate ride detail on phones and iPads.</li>
-  <li>Various layout fixes on iPhone.</li>
-</ul>
-
-<p class="sub">Coming from 0.3.628? This includes everything since — quite a lot.</p>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.663.zip" length="36967671" type="application/octet-stream" sparkle:edSignature="xAZrwJ35cHROfOxvkLP01dU3RYMA+Tjaf2e0AWXcdIIu2RT5XmPYjfKK4WDIHO30T2ucRPyQFX6LxKJz0fCeDA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink663-629.delta" sparkle:deltaFrom="629" length="4868634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JXy/G+vyurcNotVQI+d83j8+bIwlupwKC5EbkaG0Ckh3cCBDzQoi7CUeJkRhbXh+Y9zxNRYYIXYEX+QuTnckDg=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink663-628.delta" sparkle:deltaFrom="628" length="4930494" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BLpf/DSqjdXINc9WbVxO+aE3Y1san/hS9QMarvgIpQzyKDpWmXa2fL+WnkyymDEaVQGg0lkJHNjb+UuxztGsCw=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink663-613.delta" sparkle:deltaFrom="613" length="5274346" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GS2mXOdASOCDHljnD15SDvt61Yg2SeiI6Bfgk+32ZCQDe8rDHf19lT4N0radaIbdliUPW74AHdcnoWL3fV1KCQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink663-609.delta" sparkle:deltaFrom="609" length="5329950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="O+PUyBym7st6oUOQxp9JdTFRLwtMFRvuh8r+I9lJLi/ciD8cqYryP8tLNoDgPvsk6eCDPWPRATAdx76d9wUzBQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink663-556.delta" sparkle:deltaFrom="556" length="7317098" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="llfCgr2FybKjsWHuHg2Cjy0JiWTQi0C2CCXS3MS6CRlaCi2ilQSaXD/L+v1TLuziXG+qusHUfktIW4YfYKXnAA=="/>
             </sparkle:deltas>
         </item>
     </channel>
