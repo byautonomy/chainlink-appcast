@@ -2,36 +2,7 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>ChainLink</title>
-        <item>
-            <title>0.3.669</title>
-            <pubDate>Tue, 28 Jul 2026 09:45:26 -0700</pubDate>
-            <sparkle:version>669</sparkle:version>
-            <sparkle:shortVersionString>0.3.669</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ChainLink 0.3.669</h2>
-<p class="sub">Pull to refresh, and a faster app on iPhone.</p>
-
-<ul>
-  <li><strong>Pull to refresh.</strong> Drag down on the Rides or Overview page to
-  sync your connected ride services — the same as tapping Sync.</li>
-  <li><strong>Noticeably faster on iPhone.</strong> Two pieces of hidden overhead
-  removed: the app was re-reading large ride data from disk just to check it
-  existed, and re-running the full fitness computation on every launch even when
-  nothing had changed. Launch and the Rides page should both feel snappier.</li>
-  <li>Includes everything from 0.3.668 — the duplicate-event fix, dated
-  "longest recent ride" stat, instant Career Bests, and the note about Strava's
-  new subscription requirement.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.669.zip" length="37046477" type="application/octet-stream" sparkle:edSignature="r/zQXHoOsgF2yPhNj+C84iM+tQEfg99lTEiHHDcqlcbRpEA29WUdooTU0wvb3hP0sVLSGg/44g+/PtdXbISqCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink669-668.delta" sparkle:deltaFrom="668" length="3571914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UUoBBQn9bYgfKIbuBgzaB3nA+hZUo0D0SKBfLDyK9t8+BBWyDaPZcSYAltrQGeKKoQeOS+cSagoW2rfANKXoDg=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink669-665.delta" sparkle:deltaFrom="665" length="4103998" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="03bh9W4cu8PWfXqxfzp6WypO9rG/sjl1nG2m6X8vKVc4DvPzlNvNFrPr4T+6bwjfjg+b6zeBFi2gd/02XP31Cg=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink669-663.delta" sparkle:deltaFrom="663" length="4333662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rzcNSbDnVUZ/4FXDBBt6Lvm2izeEnlDSEHVbEk+/kIIO8SOm8jSRDy5R9QQ5XYsstcGHgoCha9JO6L3ty07fBw=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink669-629.delta" sparkle:deltaFrom="629" length="5211450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ubyEPycf+N7Jm4sZ3RRhXQ++ZCWmmK6Z8tO0eIR6sMwJtgZqyEPa9Lg1cIbjVDevdEfhEOOnTfqQeKo7hFTjDw=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink669-628.delta" sparkle:deltaFrom="628" length="5182398" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GgrM/ZgnkGxnsQhJ4XxPjLbpXPyzj7La9odervrj2jzEdIWbUeLkv0e+yJBDyCefSvNnrfGdsGwmwK0hBG8TBg=="/>
-            </sparkle:deltas>
-        </item>
+        
         <item>
             <title>0.3.668</title>
             <pubDate>Mon, 20 Jul 2026 08:00:56 -0700</pubDate>
