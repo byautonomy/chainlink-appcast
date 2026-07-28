@@ -3,6 +3,80 @@
     <channel>
         <title>ChainLink</title>
         <item>
+            <title>0.3.681</title>
+            <pubDate>Tue, 28 Jul 2026 14:13:48 -0700</pubDate>
+            <sparkle:version>681</sparkle:version>
+            <sparkle:shortVersionString>0.3.681</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ChainLink 0.3.681</h2>
+<p class="sub">Make ChainLink yours: modules you can switch on and off, shareable bike builds, and a snappier app all round.</p>
+
+<h3>Modules — turn off what you don't use</h3>
+<p>Settings has a new <strong>Modules</strong> card. Every big area of ChainLink —
+Fitness Signature, Wellness, Routes, Events &amp; Goals, Bikes &amp; Workshop,
+Bike Fit, AI Coach, Weather, Reports — now has its own switch, plus one per
+connected service (Strava, Ride with GPS, Garmin Connect, Karoo). Off means the
+pages, background work and coach input for that module stop <em>on that
+device</em> — your data stays saved and synced, and everything comes back exactly
+as it was when you switch it on again. Settings are per-device on purpose: run
+your phone lean and your desktop fully loaded.</p>
+
+<h3>Share bike builds</h3>
+<p>Plan a build for a friend and send it to them: the build workbench has a new
+<strong>Share Build…</strong> button that saves a small file with every part,
+weight and price, and the Bikes page's Add menu gained
+<strong>Import Build…</strong> to open one. The recipient's shopping list starts
+fresh — nothing arrives pre-ticked as bought.</p>
+
+<h3>Pull to refresh — now with feedback</h3>
+<ul>
+  <li>Pull down on the Rides page (and any page with sync) to fetch new rides.
+  A dotted line stretches as you pull and ripples while the sync runs.</li>
+  <li>Fixed a bug where the first pull could wrongly report your connected
+  services as unreachable.</li>
+</ul>
+
+<h3>Faster, and more honest charts</h3>
+<ul>
+  <li>Two real speed bugs fixed: ride pages no longer read hundreds of megabytes
+  of graph data just to check it exists, and launch no longer recomputes your
+  whole fitness history when nothing changed. Older iPhones feel it most.</li>
+  <li>The Rides header chart now draws the current week, month and year as a
+  full-width bar — the in-progress period used to be clipped to a sliver, which
+  made the Years view look like it ended last year.</li>
+  <li>The Goals, Wellness and Settings pages do far less repeated work while
+  you scroll.</li>
+</ul>
+
+<h3>Training plan fixes</h3>
+<ul>
+  <li><strong>No more phantom workouts.</strong> The training calendar could show the
+  same planned session several times on one day — leftovers from older plan
+  generations. Duplicates and ghost plans now clean themselves up on launch.</li>
+  <li><strong>Honest session completion.</strong> A planned session is only marked
+  done by a ride that actually matches it (similar effort and length) — an easy
+  spin no longer ticks off your FTP test. Tests only complete from a detected
+  test effort or your own "Mark done" tick, and any session can still be marked
+  done by hand from its detail sheet.</li>
+</ul>
+
+<h3>A note about Strava</h3>
+<p>As of 30 June 2026, Strava requires an <strong>active Strava subscription</strong>
+for the API access ChainLink's Strava connection uses. If your subscription has
+lapsed, the connection will stop working — that's Strava's change, not a ChainLink
+bug. Syncing through <strong>Garmin Connect</strong> is unaffected and remains the
+recommended way to get rides in.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.681.zip" length="37274543" type="application/octet-stream" sparkle:edSignature="o0063yOgmvXB20jHER1TU4vfMVTQV4y9yCs/OSmkq4ysi1KOvrWck5/zgRYdMTOZxy+x/FKVxx+d+zKMrh06Cw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink681-680.delta" sparkle:deltaFrom="680" length="1906630" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3xN7nB5bJfMmljZODJB+0fsD6CVfkiVKQlIi35HtW6SZpoiZDDHzZMv4XHx3ElEERY21sxXfdukkzBxRp4x3BA=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink681-679.delta" sparkle:deltaFrom="679" length="3093474" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Hj+Gqyfw7GWUcjvqN7amwVQKdotjrDa/n1JNZZdgtKsL6EUZrwOaNYbbncQP/L2gOjHs/Y7d3WxfTBcSl5+0Ag=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink681-669.delta" sparkle:deltaFrom="669" length="4954646" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="T1lu43nhZpHtN13BIcV585yXoAfSjgDLrz2ffUWqRLSUAKbU3rM8gMUpqKB0xPSUxev9K9HqXYcV0r6/fcFwBg=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink681-668.delta" sparkle:deltaFrom="668" length="5107170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rTh5VZHjm2+0MWNq9nZ0HRpMRkrjUf+WwNN2f2svNghab7NwJx6JTQXVlezAzwC9xtS2M4L97eieAhS8jflKDw=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink681-665.delta" sparkle:deltaFrom="665" length="5160310" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TcV1ueXlmXeHOE5ypjy+Jql1yoSXMGYMbxcAUund5xVfUQzYuBRzRhtTYuVEGauzJ0FxNDVTe6yaTGd4FeZNAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.680</title>
             <pubDate>Tue, 28 Jul 2026 14:05:24 -0700</pubDate>
             <sparkle:version>680</sparkle:version>
@@ -130,36 +204,6 @@ bug. Syncing through <strong>Garmin Connect</strong> is unaffected and remains t
 recommended way to get rides in.</p>
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.679.zip" length="37262855" type="application/octet-stream" sparkle:edSignature="e2mLg0RMUdvXt+8gi9I2hGaCAD7ULovaOSWZSySoQ1swcLd7mucdg5AuQEr1ZoPFy4KEHb8yNnFMq6I0HCVIBw=="/>
-        </item>
-        <item>
-            <title>0.3.669</title>
-            <pubDate>Tue, 28 Jul 2026 09:45:26 -0700</pubDate>
-            <sparkle:version>669</sparkle:version>
-            <sparkle:shortVersionString>0.3.669</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ChainLink 0.3.669</h2>
-<p class="sub">Pull to refresh, and a faster app on iPhone.</p>
-
-<ul>
-  <li><strong>Pull to refresh.</strong> Drag down on the Rides or Overview page to
-  sync your connected ride services — the same as tapping Sync.</li>
-  <li><strong>Noticeably faster on iPhone.</strong> Two pieces of hidden overhead
-  removed: the app was re-reading large ride data from disk just to check it
-  existed, and re-running the full fitness computation on every launch even when
-  nothing had changed. Launch and the Rides page should both feel snappier.</li>
-  <li>Includes everything from 0.3.668 — the duplicate-event fix, dated
-  "longest recent ride" stat, instant Career Bests, and the note about Strava's
-  new subscription requirement.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.669.zip" length="37046477" type="application/octet-stream" sparkle:edSignature="r/zQXHoOsgF2yPhNj+C84iM+tQEfg99lTEiHHDcqlcbRpEA29WUdooTU0wvb3hP0sVLSGg/44g+/PtdXbISqCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink669-668.delta" sparkle:deltaFrom="668" length="3571914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UUoBBQn9bYgfKIbuBgzaB3nA+hZUo0D0SKBfLDyK9t8+BBWyDaPZcSYAltrQGeKKoQeOS+cSagoW2rfANKXoDg=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink669-665.delta" sparkle:deltaFrom="665" length="4103998" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="03bh9W4cu8PWfXqxfzp6WypO9rG/sjl1nG2m6X8vKVc4DvPzlNvNFrPr4T+6bwjfjg+b6zeBFi2gd/02XP31Cg=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink669-663.delta" sparkle:deltaFrom="663" length="4333662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rzcNSbDnVUZ/4FXDBBt6Lvm2izeEnlDSEHVbEk+/kIIO8SOm8jSRDy5R9QQ5XYsstcGHgoCha9JO6L3ty07fBw=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink669-629.delta" sparkle:deltaFrom="629" length="5211450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ubyEPycf+N7Jm4sZ3RRhXQ++ZCWmmK6Z8tO0eIR6sMwJtgZqyEPa9Lg1cIbjVDevdEfhEOOnTfqQeKo7hFTjDw=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink669-628.delta" sparkle:deltaFrom="628" length="5182398" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GgrM/ZgnkGxnsQhJ4XxPjLbpXPyzj7La9odervrj2jzEdIWbUeLkv0e+yJBDyCefSvNnrfGdsGwmwK0hBG8TBg=="/>
-            </sparkle:deltas>
         </item>
     </channel>
 </rss>
