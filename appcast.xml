@@ -3,6 +3,80 @@
     <channel>
         <title>ChainLink</title>
         <item>
+            <title>0.3.682</title>
+            <pubDate>Tue, 28 Jul 2026 14:23:26 -0700</pubDate>
+            <sparkle:version>682</sparkle:version>
+            <sparkle:shortVersionString>0.3.682</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ChainLink 0.3.682</h2>
+<p class="sub">Make ChainLink yours: modules you can switch on and off, shareable bike builds, and a snappier app all round.</p>
+
+<h3>Modules — turn off what you don't use</h3>
+<p>Settings has a new <strong>Modules</strong> card. Every big area of ChainLink —
+Fitness Signature, Wellness, Routes, Events &amp; Goals, Bikes &amp; Workshop,
+Bike Fit, AI Coach, Weather, Reports — now has its own switch, plus one per
+connected service (Strava, Ride with GPS, Garmin Connect, Karoo). Off means the
+pages, background work and coach input for that module stop <em>on that
+device</em> — your data stays saved and synced, and everything comes back exactly
+as it was when you switch it on again. Settings are per-device on purpose: run
+your phone lean and your desktop fully loaded.</p>
+
+<h3>Share bike builds</h3>
+<p>Plan a build for a friend and send it to them: the build workbench has a new
+<strong>Share Build…</strong> button that saves a small file with every part,
+weight and price, and the Bikes page's Add menu gained
+<strong>Import Build…</strong> to open one. The recipient's shopping list starts
+fresh — nothing arrives pre-ticked as bought.</p>
+
+<h3>Pull to refresh — now with feedback</h3>
+<ul>
+  <li>Pull down on the Rides page (and any page with sync) to fetch new rides.
+  A dotted line stretches as you pull and ripples while the sync runs.</li>
+  <li>Fixed a bug where the first pull could wrongly report your connected
+  services as unreachable.</li>
+</ul>
+
+<h3>Faster, and more honest charts</h3>
+<ul>
+  <li>Two real speed bugs fixed: ride pages no longer read hundreds of megabytes
+  of graph data just to check it exists, and launch no longer recomputes your
+  whole fitness history when nothing changed. Older iPhones feel it most.</li>
+  <li>The Rides header chart now draws the current week, month and year as a
+  full-width bar — the in-progress period used to be clipped to a sliver, which
+  made the Years view look like it ended last year.</li>
+  <li>The Goals, Wellness and Settings pages do far less repeated work while
+  you scroll.</li>
+</ul>
+
+<h3>Training plan fixes</h3>
+<ul>
+  <li><strong>No more phantom workouts.</strong> The training calendar could show the
+  same planned session several times on one day — leftovers from older plan
+  generations. Duplicates and ghost plans now clean themselves up on launch.</li>
+  <li><strong>Honest session completion.</strong> A planned session is only marked
+  done by a ride that actually matches it (similar effort and length) — an easy
+  spin no longer ticks off your FTP test. Tests only complete from a detected
+  test effort or your own "Mark done" tick, and any session can still be marked
+  done by hand from its detail sheet.</li>
+</ul>
+
+<h3>A note about Strava</h3>
+<p>As of 30 June 2026, Strava requires an <strong>active Strava subscription</strong>
+for the API access ChainLink's Strava connection uses. If your subscription has
+lapsed, the connection will stop working — that's Strava's change, not a ChainLink
+bug. Syncing through <strong>Garmin Connect</strong> is unaffected and remains the
+recommended way to get rides in.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.682.zip" length="37277039" type="application/octet-stream" sparkle:edSignature="f1rmi3WcetDHCyUyqSN+uqZFwAf0JsJrSyg2RuFCOy0eOTLfyQfF195V3fQnXDV+/dLRd5oxNaNZn1I78ZtJAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink682-681.delta" sparkle:deltaFrom="681" length="1433590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iKtLuu2nsp2aNKMDg4B+AzeqmsW7uzNRPo9SdNImRv8NsORcjaynEcDNcOu0HlLNlfABGFX1G1EjOkrPtk2gBw=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink682-680.delta" sparkle:deltaFrom="680" length="1951630" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mikgfinqoPEK9c/eiO8uaokFi+FmYqoThd3meFxtEr/Ba3vRx4EPk9OtGsoOG1fv7hTShjWywamDa49v895vCA=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink682-679.delta" sparkle:deltaFrom="679" length="3104346" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="r0zyf5oZ9tkLEqTTOWA8u72Qou9N+A1o4q+PapVDGN3r7nfy025AoRCozH4OW57dQvZfg4eubG6kBlu3TNB9Cw=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink682-669.delta" sparkle:deltaFrom="669" length="4976526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aOgvIXvaJ4CazpYFMn4HeUmFSG/XH5C75DSEN/pTAjSCnv6DKizKCmacyY9q3CoVl3o1o1oUfjwylY7OjT9aDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink682-668.delta" sparkle:deltaFrom="668" length="5092642" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rrQWQkmG11FKa+84Y45nsmnEJe7fb43pqp2GTOySGzNs8Z0PmHjNIR9gifSCkJ9WKCmVc8TKpteMmKUBBRdsCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.681</title>
             <pubDate>Tue, 28 Jul 2026 14:13:48 -0700</pubDate>
             <sparkle:version>681</sparkle:version>
@@ -149,61 +223,6 @@ recommended way to get rides in.</p>
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink680-665.delta" sparkle:deltaFrom="665" length="5147202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0aV61EvIz/W2ZDtIeMQ8u+DueBS1GM8EFFqXicuZQeKesT20iR3z9dbyF5bp86kWm+EIO2/7q3FhsMqw2FCGAw=="/>
                 <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink680-663.delta" sparkle:deltaFrom="663" length="5310074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QRYGgnTzMC5Bhv8NAx0Ybwl8RmH6qFfdVcUztxByx6WtK4KyGxri+S2iSfvvcYwuJNQUAU+jo1ggiMssGoiLAg=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.679</title>
-            <pubDate>Tue, 28 Jul 2026 13:51:25 -0700</pubDate>
-            <sparkle:version>679</sparkle:version>
-            <sparkle:shortVersionString>0.3.679</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ChainLink 0.3.679</h2>
-<p class="sub">Make ChainLink yours: modules you can switch on and off, shareable bike builds, and a snappier app all round.</p>
-
-<h3>Modules — turn off what you don't use</h3>
-<p>Settings has a new <strong>Modules</strong> card. Every big area of ChainLink —
-Fitness Signature, Wellness, Routes, Events &amp; Goals, Bikes &amp; Workshop,
-Bike Fit, AI Coach, Weather, Reports — now has its own switch, plus one per
-connected service (Strava, Ride with GPS, Garmin Connect, Karoo). Off means the
-pages, background work and coach input for that module stop <em>on that
-device</em> — your data stays saved and synced, and everything comes back exactly
-as it was when you switch it on again. Settings are per-device on purpose: run
-your phone lean and your desktop fully loaded.</p>
-
-<h3>Share bike builds</h3>
-<p>Plan a build for a friend and send it to them: the build workbench has a new
-<strong>Share Build…</strong> button that saves a small file with every part,
-weight and price, and the Bikes page's Add menu gained
-<strong>Import Build…</strong> to open one. The recipient's shopping list starts
-fresh — nothing arrives pre-ticked as bought.</p>
-
-<h3>Pull to refresh — now with feedback</h3>
-<ul>
-  <li>Pull down on the Rides page (and any page with sync) to fetch new rides.
-  A dotted line stretches as you pull and ripples while the sync runs.</li>
-  <li>Fixed a bug where the first pull could wrongly report your connected
-  services as unreachable.</li>
-</ul>
-
-<h3>Faster, and more honest charts</h3>
-<ul>
-  <li>Two real speed bugs fixed: ride pages no longer read hundreds of megabytes
-  of graph data just to check it exists, and launch no longer recomputes your
-  whole fitness history when nothing changed. Older iPhones feel it most.</li>
-  <li>The Rides header chart now draws the current week, month and year as a
-  full-width bar — the in-progress period used to be clipped to a sliver, which
-  made the Years view look like it ended last year.</li>
-  <li>The Goals, Wellness and Settings pages do far less repeated work while
-  you scroll.</li>
-</ul>
-
-<h3>A note about Strava</h3>
-<p>As of 30 June 2026, Strava requires an <strong>active Strava subscription</strong>
-for the API access ChainLink's Strava connection uses. If your subscription has
-lapsed, the connection will stop working — that's Strava's change, not a ChainLink
-bug. Syncing through <strong>Garmin Connect</strong> is unaffected and remains the
-recommended way to get rides in.</p>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink-0.3.679.zip" length="37262855" type="application/octet-stream" sparkle:edSignature="e2mLg0RMUdvXt+8gi9I2hGaCAD7ULovaOSWZSySoQ1swcLd7mucdg5AuQEr1ZoPFy4KEHb8yNnFMq6I0HCVIBw=="/>
         </item>
     </channel>
 </rss>
