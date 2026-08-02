@@ -3,6 +3,75 @@
     <channel>
         <title>ChainLink</title>
         <item>
+            <title>0.3.699</title>
+            <pubDate>Sat, 01 Aug 2026 19:22:16 -0700</pubDate>
+            <sparkle:version>699</sparkle:version>
+            <sparkle:shortVersionString>0.3.699</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ChainLink 0.3.699</h2>
+<p class="sub">A much faster start, a cleaner iPhone, and printable reports that
+finally look the same wherever you make them.</p>
+
+<h3>Please re-download once</h3>
+<p><strong>If your copy stopped offering updates recently, it can't fetch this
+one either.</strong> An expired access key inside older builds switched the
+updater off silently. Re-download ChainLink once from
+<a href="https://drive.google.com/open?id=1Cz5COMs8I4lY20q8AJsqX8gnPraGvdOQ&usp=drive_fs">this
+link</a>, drag it to Applications, and you're permanently back on automatic
+updates. <strong>Your data is completely untouched.</strong> Builds from 0.3.686
+onward contain nothing that can expire, so this can't happen again.</p>
+
+<h3>It starts up fast now</h3>
+<p>The "Setting things up…" message used to sit on screen for the best part of
+a minute on a large library. It now clears in a couple of seconds.</p>
+<p>Four separate causes, all measured rather than guessed: a hard-coded minimum
+display time the message couldn't leave before; the message waiting on iCloud's
+background chatter even when your whole library was already on disk; an
+awaited Strava network call sitting on the launch path; and breakthrough
+analysis holding the message while it ran. None of them made the app do
+anything useful — they just made it say it was busy.</p>
+
+<h3>Printable reports</h3>
+<p>Reports were losing 56pt of page width to a preview-only margin that was
+never meant to reach the PDF, so tables squeezed and text wrapped raggedly.
+Fixed. Reports made on an iPhone were also being rendered oversized and clipped
+— the whole method column of the Bike Fit sheet was falling off the right edge
+— and they came out on more pages than the same report made on a Mac. A report
+now looks identical whichever device made it.</p>
+
+<h3>iPhone: more room, less repetition</h3>
+<ul>
+  <li><strong>Overview</strong> — the four metric cards become one Today strip
+  (Form · Fitness · Recovery), plus a compact "Where you're at" block that links
+  through to Rides, Training and Fitness. Fewer cards, same information.</li>
+  <li><strong>Wellness</strong> — your recovery score appeared three times on
+  one screen; now once. Smaller hero ring, so the status and advice have room
+  to read properly.</li>
+  <li><strong>Wrapping fixes</strong> — long event names, the peak-power grid,
+  the body-metrics row and the planned-ride row no longer wrap or crush.</li>
+  <li>Connection dots only appear when something is actually wrong.</li>
+</ul>
+
+<h3>Also</h3>
+<ul>
+  <li>Coach insights are generated when you're looking at them rather than at
+  every launch.</li>
+  <li>Bike builds sync properly across devices, and can be exported and shared
+  as a file.</li>
+  <li>Public holidays are respected when generating a plan; test sessions
+  schedule themselves.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink-0.3.699.zip" length="37500313" type="application/octet-stream" sparkle:edSignature="oRgMrcWyhpRfa0W+eAKNkQq59d5dyOj9xUYAsDXpaYa+victcVOIDHLbHZhXw9TGcEX6LvHJvchUZTWds+gLCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink699-687.delta" sparkle:deltaFrom="687" length="4752350" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="L3sX8xOIIhv6nc3gdbqWFyOLeTFCHpfFfdZsbaWM6P9bn1MvZ5MjFq/Bp7j0XzPKXJv+H1QI1y+Wv0OQ7+cPAg=="/>
+                <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink699-686.delta" sparkle:deltaFrom="686" length="4752734" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/ho0Rsf1h12CuXUTjQqACwVR2LGMz6vEOh4efYAXRkPSeX03kHQaIwmRu//VrQD1L2pVXZtVzeUxTfuZXpBiAg=="/>
+                <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink699-685.delta" sparkle:deltaFrom="685" length="4755150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="t0WofAGloPCgWojUvRGYfnJ9ziimii8N0gQPZzM7rgo9IAXnwZbw2d5K7ISVFEVYFAxmgrRJbGeOA+nM3kNtCw=="/>
+                <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink699-684.delta" sparkle:deltaFrom="684" length="4754898" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Qfu9yraj3FJ/Q14qKI4H4vvhI7VOnQmXX/Lv3nBpmAgDD/mPdYn6oSfGhtogWamSXa/wOIUbcb4kXsrbyAjrBA=="/>
+                <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink699-682.delta" sparkle:deltaFrom="682" length="5130198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hKd5Hr5UIP1iflOYgBbom1CQT5yu54cKiIKPj4FJiMRLu4MLXaMKs37z/6rQyIbAlwz4gZUeWnw5PoyKv7CWDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.687</title>
             <pubDate>Thu, 30 Jul 2026 22:00:29 -0700</pubDate>
             <sparkle:version>687</sparkle:version>
@@ -92,22 +161,6 @@ for the API access ChainLink's Strava connection uses. Syncing through
                 <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink686-682.delta" sparkle:deltaFrom="682" length="4395162" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="emWF7jwPQLuZxJrD0sTke8r3/zWOWzIPSShzWVSh+9URlD3WnnB56rssbprSUi7FVOWS+Zd/yN2L13hcP4yJAA=="/>
                 <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink686-681.delta" sparkle:deltaFrom="681" length="4420910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qMbPc8czY+KuecNqZHi2jE6QyZLS3onOauWzI2ZQjGWgXaingEPnQ+80TCIULx2DQTIav51UOvVpN1EC5b8OAw=="/>
                 <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink686-680.delta" sparkle:deltaFrom="680" length="4441886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="f/GoIsPsk4lgZk5dMe1Sfhl3dhjrmNGUt4lMCFnVY1IqkRjRb3OlNBK7ockDJFrWJ5ntdkNhfHFNgaW5en6vDw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.685</title>
-            <pubDate>Thu, 30 Jul 2026 21:32:13 -0700</pubDate>
-            <sparkle:version>685</sparkle:version>
-            <sparkle:shortVersionString>0.3.685</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/byautonomy/chainlink-appcast/main/ChainLink-0.3.685.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink-0.3.685.zip" length="37345082" type="application/octet-stream" sparkle:edSignature="wbD4aJU1ca5tABFXY076lxG3jBbtMQpieR1irfKaQ5dsLG7V0JwTliWlagOqTbIr0KGlWsoeJl8XPKuzeBXtBw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink685-684.delta" sparkle:deltaFrom="684" length="36118" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jEoGQw5bMQvh69Y42qLU5vh3BOEyrk+VeCNygrgFbe9ORvW4nvZUh4WpNYyp9iEUJ+UPW0Q3/Pbc+mXJwIi5Bg=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink685-682.delta" sparkle:deltaFrom="682" length="4416570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/XrKvkxKOQlKrRfOQ8F5W+GWm9vq4NvumiI2IaZMHwSVVzLLy+hOtwX0A2TiRLSn40UyHkAcZmZG5p7JsguIBA=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink685-681.delta" sparkle:deltaFrom="681" length="4409882" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="frDzPHBCkDJ9zYLDqvkE68Cmt++QaCTaaoU7b28oP873F40PUkPKVGDdORHYYScuHMoXEYoCBxQxgqrgUeMBBg=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink685-680.delta" sparkle:deltaFrom="680" length="4447926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eQYOR30iH6Xp8A/qsYicht+jiKFkkINNJpGo9pQqF7QCVAYjx9Ua62Xy0W31+PVIKa7uahNIbkolWy07rYgjCw=="/>
-                <enclosure url="https://raw.githubusercontent.com/byautonomy/chainlink-releases/main/releases/ChainLink685-679.delta" sparkle:deltaFrom="679" length="4545646" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wBoSGjqD2fhoWMX3nehzkYviVY1YRGAsaqlonoWrivsAS+9IkKYX5hqZz84uqmpIYr5cgrucrRmnYXt7TbSGCA=="/>
             </sparkle:deltas>
         </item>
     </channel>
