@@ -3,6 +3,59 @@
     <channel>
         <title>ChainLink</title>
         <item>
+            <title>0.3.702</title>
+            <pubDate>Mon, 03 Aug 2026 07:16:29 -0700</pubDate>
+            <sparkle:version>702</sparkle:version>
+            <sparkle:shortVersionString>0.3.702</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ChainLink 0.3.702</h2>
+<p class="sub">The AI coach was double-counting your rides. It isn't any more —
+and your data was never wrong.</p>
+
+<h3>Please re-download once</h3>
+<p><strong>If your copy stopped offering updates recently, it can't fetch this
+one either.</strong> An expired access key inside older builds switched the
+updater off silently. Re-download ChainLink once from
+<a href="https://drive.google.com/open?id=1Cz5COMs8I4lY20q8AJsqX8gnPraGvdOQ&usp=drive_fs">this
+link</a>, drag it to Applications, and you're permanently back on automatic
+updates. <strong>Your data is completely untouched.</strong></p>
+
+<h3>If the coach told you your rides were duplicated — please don't delete anything</h3>
+<p>Two of you reported the coach claiming your rides were logged two or three
+times, with inflated training load to match (one saw 1700+ TSS for a week).
+One of you was advised by the coach to go and delete the extra entries.</p>
+<p><strong>Nothing was duplicated, and nothing needs deleting.</strong> When the
+same ride arrives from two places — your head unit's file and a service summary,
+say — ChainLink keeps both but counts only the richer one. Every screen in the
+app knew that. The coach didn't: it was reading the raw list and seeing each ride
+more than once.</p>
+<p>That's why the number it quoted appeared nowhere else in the app, and why the
+"duplicates" couldn't be found in your ride list — they were never shown, because
+they were never counted. <strong>The app's own figures were right the whole
+time.</strong> Fixed now, with a test that stops it recurring.</p>
+
+<h3>Wellness said two different things at once</h3>
+<p>The recovery ring and the paragraph underneath it could disagree — one
+reading "Excellent, go hard", the other "poor, rest today", on the same screen.
+The ring worked the score out live; the text was reading a copy saved earlier.
+Everything on that page, including what gets handed to the coach, now uses the
+same live figure.</p>
+
+<h3>"Connected but nothing syncs"</h3>
+<p>A service that is connected but switched off in Settings → Modules fetched
+nothing, reported no error, and so got described as "up to date" — freshness the
+app had never actually checked. It now tells you the service is switched off.</p>
+]]></description>
+            <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink-0.3.702.zip" length="37541336" type="application/octet-stream" sparkle:edSignature="Zryzlh6Eq69k+kRXmk1EZJ4FOvys9Zd3qUdhPuekLhVZKrOLtDjEbR2x7qsZvMHoAjyeddjyIrci/GRGZBBOBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink702-701.delta" sparkle:deltaFrom="701" length="3101070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bbaVc7+pGq7KktWUq/sLT/wtrxiNv86Tcg6YoM28hK8mdAPfUFXxMFbylQOkrFlI/+8LBE0XrYUSZwjXFvS4Cg=="/>
+                <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink702-699.delta" sparkle:deltaFrom="699" length="4165374" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ow+t52OFoCPynJRa0G4PPOWmLZE+NF+MJhvv7Jbv7MdSXW4l7UbAsC0SfCLbl2Eq6PDS2w0QFlK4QiHiFYjQAQ=="/>
+                <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink702-687.delta" sparkle:deltaFrom="687" length="5335386" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QY4bULSoAZ65TgX/a9+IY63bSIFd+lNEzSNJjhX15DugvfGL0fx37pGYzr5rwRhMJqmOgT0/YO44PiuZWGKaBQ=="/>
+                <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink702-686.delta" sparkle:deltaFrom="686" length="5320458" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xpTn0jC8r9YCv14mpeahNMrfRIMz7w3su0AooWaH8DQLMMPMyYGmB6wEmC7tSPE9ugworBHpnPQIX1zFFNgHBg=="/>
+                <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink702-685.delta" sparkle:deltaFrom="685" length="5355514" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jO/pYYFH45m+e/IoXqvbWzf6KUBsw0zoF41pKWzfTE4i9K6SoGCKTulIjUS/Lw0GNTD4/75+EWUbvhCRXkq2DA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.701</title>
             <pubDate>Sat, 01 Aug 2026 20:22:08 -0700</pubDate>
             <sparkle:version>701</sparkle:version>
@@ -126,52 +179,6 @@ now looks identical whichever device made it.</p>
                 <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink699-685.delta" sparkle:deltaFrom="685" length="4755150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="t0WofAGloPCgWojUvRGYfnJ9ziimii8N0gQPZzM7rgo9IAXnwZbw2d5K7ISVFEVYFAxmgrRJbGeOA+nM3kNtCw=="/>
                 <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink699-684.delta" sparkle:deltaFrom="684" length="4754898" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Qfu9yraj3FJ/Q14qKI4H4vvhI7VOnQmXX/Lv3nBpmAgDD/mPdYn6oSfGhtogWamSXa/wOIUbcb4kXsrbyAjrBA=="/>
                 <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink699-682.delta" sparkle:deltaFrom="682" length="5130198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hKd5Hr5UIP1iflOYgBbom1CQT5yu54cKiIKPj4FJiMRLu4MLXaMKs37z/6rQyIbAlwz4gZUeWnw5PoyKv7CWDg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.687</title>
-            <pubDate>Thu, 30 Jul 2026 22:00:29 -0700</pubDate>
-            <sparkle:version>687</sparkle:version>
-            <sparkle:shortVersionString>0.3.687</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ChainLink 0.3.687</h2>
-<p class="sub">A more reliable update system — plus everything from 0.3.684.</p>
-
-<h3>Updates you can trust</h3>
-<p>ChainLink's built-in updater has been rebuilt to need <strong>no credentials at
-all</strong> — the update feed and the downloads are now plain public files. If a
-download ever fails, you'll see a clear error instead of silence, and nothing
-that expires can ever switch your updates off again.</p>
-
-<p><strong>If your copy stopped offering updates recently:</strong> that was a
-one-time fault on our side (an expired access key in older builds). Re-download
-ChainLink once from your original invite link, drag it to Applications, and
-you're permanently back on automatic updates — your data is untouched.</p>
-
-<h3>Recently added (0.3.684)</h3>
-<ul>
-  <li><strong>Modules</strong> — Settings → Modules lets you switch off the parts of
-  ChainLink you don't use, per device. Data stays safe and synced.</li>
-  <li><strong>Share bike builds</strong> — export a build as a file for a friend;
-  import theirs from the Bikes page.</li>
-  <li><strong>Smarter plans</strong> — public holidays respected automatically,
-  self-scheduling ramp/CP tests, honest session completion, no phantom workouts.</li>
-  <li><strong>Pull to refresh</strong> with a stretching dotted indicator, and a
-  faster app throughout (shared power curve, lighter Rides page).</li>
-</ul>
-
-<h3>A note about Strava</h3>
-<p>As of 30 June 2026, Strava requires an <strong>active Strava subscription</strong>
-for the API access ChainLink's Strava connection uses. Syncing through
-<strong>Garmin Connect</strong> is unaffected and remains recommended.</p>
-]]></description>
-            <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink-0.3.687.zip" length="37348975" type="application/octet-stream" sparkle:edSignature="swA++sCgMwaLq5Nhy60bdYMZpgsfQinnDy/lgfRoPJ4QCj+dyQBiShyxw/v+wZnPFZwApgvT7nTSWHwTz2iuDg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink687-686.delta" sparkle:deltaFrom="686" length="36346" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AKadv1yz+BpOx1gajopYYYpow23esYYLBTmJJy0tJKuUZDnH+AsRKNGzorL9YeG5zSRq41U/+Qn1BxtiIzHGCg=="/>
-                <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink687-685.delta" sparkle:deltaFrom="685" length="1567722" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VpeSUiH3Dd9kvezzUK/e5J69wrMlq8dl1fTfiwuovDIXG2YNAT7eq7hSK+ftAgboWbVylGzh/yenvptKASLVAQ=="/>
-                <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink687-684.delta" sparkle:deltaFrom="684" length="1810930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FAKLim4IiJTvdk+2lEb+gXCmlGvF2eV+xGh7KdCVWN0x7F9jeIE+G/AS2EM5LUbXLWCUiVXh0EOvneLDuGaeAQ=="/>
-                <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink687-682.delta" sparkle:deltaFrom="682" length="4401774" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zVeNA6TAAH8+Rdktbjb30WuDFUjgs0NGDRhKpJwdxg4HMR8TSO7A3H/ykXnS8vhWawxCEkNKVh7v28cLuefTDA=="/>
-                <enclosure url="https://github.com/byautonomy/chainlink-appcast/releases/download/builds/ChainLink687-681.delta" sparkle:deltaFrom="681" length="4422234" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8q/Yv32agjsbCeJGQn9WZ+OZZB0bE39ig28UMRXiCmV6IjlCa6DrOfxqPE05cdYvWUP8obG/WnXEa82+dtP1Cg=="/>
             </sparkle:deltas>
         </item>
     </channel>
